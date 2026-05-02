@@ -590,7 +590,7 @@ For Kakaako residents, Westman is already becoming the default answer to "where 
     category: 'Drinks',
     date: 'May 15, 2026',
     excerpt: "Canada's iconic restaurant chain makes its Hawaii debut with a rare bi-daily happy hour — including a late-night session that runs until 1 AM on weekends.",
-    image: '/images/collection-sunset.jpg',
+    image: '/images/earls-waikiki.jpg',
     content: `Waikiki just got a major new player, and it's open until 1 AM.
 
 Earls Kitchen + Bar, the iconic Canadian restaurant chain with over 70 locations across North America, made its Hawaii debut in October 2025 — and it's already reshaping how Waikiki thinks about late-night dining. Located on the second floor of the historic Waikiki sign building at 2280 Kalakaua Avenue, this 13,000-square-foot space is one of the largest restaurants in the neighborhood, with 300+ seats, open-air skylights, tropical greenery, and artwork exclusively from local Hawaiian artists.
