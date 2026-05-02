@@ -84,9 +84,12 @@ export default function Blog() {
 
         {/* CTA */}
         <div className="text-center">
-          <span className="inline-flex items-center gap-2 border border-[#1a1a1a] text-[#1a1a1a] text-sm font-sans font-medium uppercase tracking-wide px-7 py-3 rounded-full hover:bg-[#1a1a1a] hover:text-[#faf8f5] transition-all duration-300 cursor-pointer">
+          <Link
+            to="/blog"
+            className="inline-flex items-center gap-2 border border-[#1a1a1a] text-[#1a1a1a] text-sm font-sans font-medium uppercase tracking-wide px-7 py-3 rounded-full hover:bg-[#1a1a1a] hover:text-[#faf8f5] transition-all duration-300"
+          >
             Read All Stories
-          </span>
+          </Link>
         </div>
       </div>
     </section>

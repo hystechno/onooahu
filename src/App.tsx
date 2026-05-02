@@ -2,6 +2,7 @@ import { Routes, Route } from 'react-router';
 import Home from './pages/Home';
 import CollectionPage from './pages/CollectionPage';
 import BlogPost from './pages/BlogPost';
+import BlogListingPage from './pages/BlogListingPage';
 import RestaurantDetail from './pages/RestaurantDetail';
 import NeighborhoodPage from './pages/NeighborhoodPage';
 import DiscoverPage from './pages/DiscoverPage';
@@ -16,6 +17,7 @@ export default function App() {
       <Route path="/collections/:slug" element={<CollectionPage />} />
       <Route path="/restaurants/:id" element={<RestaurantDetail />} />
       <Route path="/neighborhoods/:slug" element={<NeighborhoodPage />} />
+      <Route path="/blog" element={<BlogListingPage />} />
       <Route path="/blog/:slug" element={<BlogPost />} />
       <Route path="/about" element={<AboutPage />} />
       <Route path="/faq" element={<FAQPage />} />

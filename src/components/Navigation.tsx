@@ -60,6 +60,12 @@ export default function Navigation() {
           Collections
         </button>
         <Link
+          to="/blog"
+          className="text-[13px] uppercase tracking-[0.08em] text-[#1a1a1a] hover:text-[#d4a574] transition-colors duration-300 font-sans font-medium"
+        >
+          Stories
+        </Link>
+        <Link
           to="/about"
           className="text-[13px] uppercase tracking-[0.08em] text-[#1a1a1a] hover:text-[#d4a574] transition-colors duration-300 font-sans font-medium"
         >

@@ -29,7 +29,7 @@ export const restaurants: Restaurant[] = [
     phone: '(808) 922-2268',
     hours: 'Mon-Sun: 7AM-12AM',
     mustTry: ['Hula Pie', 'Fish Tacos', 'Mai Tai'],
-    image: '/images/hero-card-3.jpg',
+    image: '/images/dukes-waikiki.jpg',
     tags: ['ocean view', 'live music', ' iconic'],
   },
   {
@@ -257,7 +257,7 @@ export const restaurants: Restaurant[] = [
     phone: '(808) 751-2299',
     hours: 'Happy Hour: Daily 2PM-5PM & 10PM-Close',
     mustTry: ['Nitro Espresso Martini', 'Nashville Chicken Skewers', 'Earls Old Fashioned'],
-    image: '/images/collection-sunset.jpg',
+    image: '/images/earls-waikiki.jpg',
     tags: ['late night', 'happy hour', 'new', 'live music'],
   },
   {

@@ -13,13 +13,14 @@ interface Card {
 const cards: Card[] = [
   { id: 1, restaurantId: 'giovannis-shrimp-truck', name: "Giovanni's Shrimp Truck", neighborhood: "North Shore", description: "Legendary garlic shrimp plates served from a rustic food truck on Oahu's iconic North Shore.", image: "/images/hero-card-1.jpg" },
   { id: 2, restaurantId: 'onos-seafood', name: "Ono Seafood", neighborhood: "Honolulu", description: "Fresh, daily-caught poke bowls that define the Hawaiian raw fish tradition.", image: "/images/hero-card-2.jpg" },
-  { id: 3, restaurantId: 'dukes-waikiki', name: "Duke's Waikiki", neighborhood: "Waikiki", description: "Beachfront institution serving Hawaiian-inspired classics with live music and sunset views.", image: "/images/hero-card-3.jpg" },
+  { id: 3, restaurantId: 'dukes-waikiki', name: "Duke's Waikiki", neighborhood: "Waikiki", description: "Beachfront institution serving Hawaiian-inspired classics with live music and sunset views.", image: "/images/dukes-carousel.jpg" },
   { id: 4, restaurantId: 'monkeypod-waikiki', name: "Monkeypod Kitchen", neighborhood: "Waikiki", description: "Chef Peter Merriman's waterfront gem — Hawaii Regional Cuisine, legendary Mai Tais, and Diamond Head views.", image: "/images/monkeypod-waikiki.jpg" },
   { id: 5, restaurantId: 'rainbow-drive-in', name: "Rainbow Drive-In", neighborhood: "Kapahulu", description: "A local legend since 1961, famous for their classic plate lunch and loco moco.", image: "/images/hero-card-4.jpg" },
-  { id: 5, restaurantId: 'skull-crown', name: "Skull & Crown", neighborhood: "Chinatown", description: "A hidden tiki bar crafting fiery, flavor-packed tropical cocktails in the heart of Chinatown.", image: "/images/hero-card-5.jpg" },
-  { id: 6, restaurantId: 'leonards-bakery', name: "Leonard's Bakery", neighborhood: "Kapahulu", description: "Home of the original malasada — hot, sugar-dusted Portuguese donuts since 1952.", image: "/images/hero-card-6.jpg" },
-  { id: 7, restaurantId: 'mw-restaurant', name: "MW Restaurant", neighborhood: "Kaka'ako", description: "James Beard Award-winning chef elevates local ingredients into refined Hawaiian cuisine.", image: "/images/hero-card-7.jpg" },
-  { id: 8, restaurantId: 'helena-hawaiian-food', name: "Helena's Hawaiian Food", neighborhood: "Kalihi", description: "James Beard Award-winning traditional Hawaiian food. The pipikaula short ribs are legendary.", image: "/images/hero-card-8.jpg" },
+  { id: 6, restaurantId: 'skull-crown', name: "Skull & Crown", neighborhood: "Chinatown", description: "A hidden tiki bar crafting fiery, flavor-packed tropical cocktails in the heart of Chinatown.", image: "/images/hero-card-5.jpg" },
+  { id: 7, restaurantId: 'leonards-bakery', name: "Leonard's Bakery", neighborhood: "Kapahulu", description: "Home of the original malasada — hot, sugar-dusted Portuguese donuts since 1952.", image: "/images/hero-card-6.jpg" },
+  { id: 8, restaurantId: 'mw-restaurant', name: "MW Restaurant", neighborhood: "Kaka'ako", description: "James Beard Award-winning chef elevates local ingredients into refined Hawaiian cuisine.", image: "/images/hero-card-7.jpg" },
+  { id: 9, restaurantId: 'helena-hawaiian-food', name: "Helena's Hawaiian Food", neighborhood: "Kalihi", description: "James Beard Award-winning traditional Hawaiian food. The pipikaula short ribs are legendary.", image: "/images/hero-card-8.jpg" },
+  { id: 10, restaurantId: 'earls-waikiki', name: "Earls Kitchen + Bar", neighborhood: "Waikiki", description: "Canada's iconic open-air restaurant on Kalakaua — Modern American cuisine with daily happy hour and late-night cocktails.", image: "/images/earls-carousel.jpg" },
 ];
 
 
