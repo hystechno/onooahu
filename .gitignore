@@ -30,3 +30,4 @@ ono-oahu-live.zip
 # Logs
 logs
 *.log
+.vercel
