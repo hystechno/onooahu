@@ -15,7 +15,9 @@ export default function NeighborhoodPage() {
     return <Navigate to="/" replace />;
   }
 
-  const areaRestaurants = restaurants.filter((r) => r.neighborhood === neighborhood.name);
+  const areaRestaurants = restaurants.filter(
+    (r) => r.neighborhood === neighborhood.name && !r.id.endsWith('-hh')
+  );
   const otherNeighborhoods = neighborhoods.filter((n) => n.slug !== slug).slice(0, 3);
 
   const schema = getBreadcrumbSchema([
