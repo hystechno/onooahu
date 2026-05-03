@@ -1,3 +1,5 @@
+import { Link } from 'react-router';
+
 export default function MonetizeBanner({ context }: { context?: string }) {
   const messages: Record<string, { headline: string; cta: string; link: string }> = {
     restaurant: {
@@ -8,22 +10,22 @@ export default function MonetizeBanner({ context }: { context?: string }) {
     collection: {
       headline: "Save these spots to your trip itinerary.",
       cta: "Explore More",
-      link: "/discover",
+      link: "/#/discover",
     },
     blog: {
       headline: "Want more insider guides? Subscribe to our picks.",
       cta: "Subscribe Free",
-      link: "/#newsletter",
+      link: "/#/newsletter",
     },
     neighborhood: {
       headline: "Visiting this area? See every restaurant nearby.",
       cta: "View Full Guide",
-      link: "/discover",
+      link: "/#/discover",
     },
     default: {
       headline: "The best Oahu restaurants — curated weekly.",
       cta: "Explore the Guide",
-      link: "/discover",
+      link: "/#/discover",
     },
   };
 
@@ -35,12 +37,12 @@ export default function MonetizeBanner({ context }: { context?: string }) {
         <p className="text-sm md:text-base text-[#f5ede4] font-sans text-center sm:text-left">
           {headline}
         </p>
-        <a
-          href={link}
+        <Link
+          to={link}
           className="flex-shrink-0 bg-[#d4a574] text-[#1a1a1a] text-sm font-sans font-medium uppercase tracking-wide px-6 py-2.5 rounded-full hover:bg-[#faf8f5] transition-colors duration-300"
         >
           {cta}
-        </a>
+        </Link>
       </div>
     </div>
   );
