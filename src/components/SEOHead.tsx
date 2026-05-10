@@ -1,6 +1,4 @@
 import { useEffect } from 'react';
-import { useLocation } from 'react-router';
-
 interface SEOProps {
   title?: string;
   description?: string;
@@ -16,8 +14,8 @@ export default function SEOHead({
   type = 'website',
   schema,
 }: SEOProps) {
-  const location = useLocation();
-  const canonicalUrl = `https://www.onooahu.com${location.pathname}${location.search}`;
+  const hashPath = window.location.hash || '#/';
+  const canonicalUrl = `https://www.onooahu.com${hashPath}`;
 
   useEffect(() => {
     // Update document title

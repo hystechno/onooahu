@@ -19,8 +19,8 @@ export default function CollectionPage() {
 
   const schema = getBreadcrumbSchema([
     { name: 'Home', url: 'https://www.onooahu.com/' },
-    { name: 'Collections', url: 'https://www.onooahu.com/collections' },
-    { name: collection.title, url: `https://www.onooahu.com/collections/${slug}` },
+    { name: 'Collections', url: 'https://www.onooahu.com/#/collections' },
+    { name: collection.title, url: `https://www.onooahu.com/#/collections/${slug}` },
   ]);
 
   return (

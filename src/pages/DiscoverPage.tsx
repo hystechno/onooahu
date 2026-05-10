@@ -18,7 +18,7 @@ export default function DiscoverPage() {
 
   const schema = getBreadcrumbSchema([
     { name: 'Home', url: 'https://www.onooahu.com/' },
-    { name: 'Discover', url: 'https://www.onooahu.com/discover' },
+    { name: 'Discover', url: 'https://www.onooahu.com/#/discover' },
   ]);
 
   return (

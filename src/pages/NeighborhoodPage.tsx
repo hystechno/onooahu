@@ -22,8 +22,8 @@ export default function NeighborhoodPage() {
 
   const schema = getBreadcrumbSchema([
     { name: 'Home', url: 'https://www.onooahu.com/' },
-    { name: 'Neighborhoods', url: 'https://www.onooahu.com/neighborhoods' },
-    { name: neighborhood.name, url: `https://www.onooahu.com/neighborhoods/${slug}` },
+    { name: 'Neighborhoods', url: 'https://www.onooahu.com/#/neighborhoods' },
+    { name: neighborhood.name, url: `https://www.onooahu.com/#/neighborhoods/${slug}` },
   ]);
 
   return (

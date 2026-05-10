@@ -34,8 +34,8 @@ export default function RestaurantDetail() {
     }),
     getBreadcrumbSchema([
       { name: 'Home', url: 'https://www.onooahu.com/' },
-      { name: 'Discover', url: 'https://www.onooahu.com/discover' },
-      { name: restaurant.name, url: `https://www.onooahu.com/restaurants/${id}` },
+      { name: 'Discover', url: 'https://www.onooahu.com/#/discover' },
+      { name: restaurant.name, url: `https://www.onooahu.com/#/restaurants/${id}` },
     ]),
   ];
 

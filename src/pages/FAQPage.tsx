@@ -51,7 +51,7 @@ export default function FAQPage() {
   const schema = getFAQSchema(faqs);
   const breadcrumb = getBreadcrumbSchema([
     { name: 'Home', url: 'https://www.onooahu.com/' },
-    { name: 'FAQ', url: 'https://www.onooahu.com/faq' },
+    { name: 'FAQ', url: 'https://www.onooahu.com/#/faq' },
   ]);
 
   const combinedSchema = [schema, breadcrumb];

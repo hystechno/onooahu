@@ -60,8 +60,8 @@ export default function BlogPost() {
     }),
     getBreadcrumbSchema([
       { name: 'Home', url: 'https://www.onooahu.com/' },
-      { name: 'Stories', url: 'https://www.onooahu.com/blog' },
-      { name: post.title, url: `https://www.onooahu.com/blog/${slug}` },
+      { name: 'Stories', url: 'https://www.onooahu.com/#/blog' },
+      { name: post.title, url: `https://www.onooahu.com/#/blog/${slug}` },
     ]),
   ];
 

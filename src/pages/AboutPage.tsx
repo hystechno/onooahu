@@ -6,7 +6,7 @@ import { getBreadcrumbSchema } from '../utils/schema';
 export default function AboutPage() {
   const schema = getBreadcrumbSchema([
     { name: 'Home', url: 'https://www.onooahu.com/' },
-    { name: 'About', url: 'https://www.onooahu.com/about' },
+    { name: 'About', url: 'https://www.onooahu.com/#/about' },
   ]);
 
   return (

@@ -86,10 +86,10 @@ export function getArticleSchema(post: {
         url: "https://www.onooahu.com/images/hero-card-3.jpg",
       },
     },
-    url: `https://www.onooahu.com/blog/${post.slug}`,
+    url: `https://www.onooahu.com/#/blog/${post.slug}`,
     mainEntityOfPage: {
       "@type": "WebPage",
-      "@id": `https://www.onooahu.com/blog/${post.slug}`,
+      "@id": `https://www.onooahu.com/#/blog/${post.slug}`,
     },
   };
 }

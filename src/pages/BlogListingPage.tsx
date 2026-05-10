@@ -10,7 +10,7 @@ export default function BlogListingPage() {
 
   const schema = getBreadcrumbSchema([
     { name: 'Home', url: 'https://www.onooahu.com/' },
-    { name: 'Stories', url: 'https://www.onooahu.com/blog' },
+    { name: 'Stories', url: 'https://www.onooahu.com/#/blog' },
   ]);
 
   return (
