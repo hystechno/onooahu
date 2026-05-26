@@ -19,7 +19,11 @@ export default function SEOHead({
   articleCategory,
 }: SEOProps) {
   const hashPath = window.location.hash || '#/';
-  const canonicalUrl = `https://www.onooahu.com${hashPath}`;
+  // Canonical must be the ROOT URL for all pages because Google strips
+  // hash fragments when crawling. Without this, Google sees every "page"
+  // as a duplicate of the same URL with no canonical set.
+  const canonicalUrl = 'https://www.onooahu.com/';
+  const ogUrl = `https://www.onooahu.com${hashPath}`;
 
   useEffect(() => {
     // Update document title
@@ -63,7 +67,7 @@ export default function SEOHead({
     setMeta('og:title', fullTitle, true);
     setMeta('og:description', description || "Hawaii's best restaurant guide", true);
     setMeta('og:type', type, true);
-    setMeta('og:url', canonicalUrl, true);
+    setMeta('og:url', ogUrl, true);
     setMeta('og:image', image, true);
     setMeta('og:site_name', 'Ono Oahu', true);
     setMeta('og:locale', 'en_US', true);
@@ -109,7 +113,7 @@ export default function SEOHead({
         });
       }
     };
-  }, [title, description, image, type, schema, canonicalUrl, articleDate, articleCategory]);
+  }, [title, description, image, type, schema, ogUrl, articleDate, articleCategory]);
 
   return null;
 }
