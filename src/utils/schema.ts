@@ -65,14 +65,15 @@ export function getArticleSchema(post: {
   date: string;
   slug: string;
 }) {
+  const isoDate = new Date(post.date).toISOString();
   return {
     "@context": "https://schema.org",
     "@type": "Article",
     headline: post.title,
     description: post.description,
     image: `https://www.onooahu.com${post.image}`,
-    datePublished: new Date(post.date).toISOString(),
-    dateModified: new Date(post.date).toISOString(),
+    datePublished: isoDate,
+    dateModified: isoDate,
     author: {
       "@type": "Organization",
       name: "Ono Oahu",
@@ -84,6 +85,8 @@ export function getArticleSchema(post: {
       logo: {
         "@type": "ImageObject",
         url: "https://www.onooahu.com/images/hero-card-3.jpg",
+        width: 1200,
+        height: 630,
       },
     },
     url: `https://www.onooahu.com/#/blog/${post.slug}`,
@@ -91,6 +94,10 @@ export function getArticleSchema(post: {
       "@type": "WebPage",
       "@id": `https://www.onooahu.com/#/blog/${post.slug}`,
     },
+    // Google Discover optimizations
+    thumbnailUrl: `https://www.onooahu.com${post.image}`,
+    inLanguage: "en-US",
+    isAccessibleForFree: true,
   };
 }
 

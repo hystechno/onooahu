@@ -73,6 +73,8 @@ export default function BlogPost() {
         image={`https://www.onooahu.com${post.image}`}
         type="article"
         schema={schema}
+        articleDate={new Date(post.date).toISOString()}
+        articleCategory={post.category}
       />
       <PageLayout>
         {/* Hero Header */}

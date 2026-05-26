@@ -5,6 +5,8 @@ interface SEOProps {
   image?: string;
   type?: string;
   schema?: Record<string, unknown> | Record<string, unknown>[];
+  articleDate?: string;
+  articleCategory?: string;
 }
 
 export default function SEOHead({
@@ -13,6 +15,8 @@ export default function SEOHead({
   image = 'https://www.onooahu.com/images/hero-card-3.jpg',
   type = 'website',
   schema,
+  articleDate,
+  articleCategory,
 }: SEOProps) {
   const hashPath = window.location.hash || '#/';
   const canonicalUrl = `https://www.onooahu.com${hashPath}`;
@@ -38,9 +42,20 @@ export default function SEOHead({
       meta.content = content;
     };
 
+    // Helper to set or create link tag
+    const setLink = (rel: string, href: string) => {
+      let link = document.querySelector(`link[rel="${rel}"]`) as HTMLLinkElement | null;
+      if (!link) {
+        link = document.createElement('link');
+        link.rel = rel;
+        document.head.appendChild(link);
+      }
+      link.href = href;
+    };
+
     setMeta('description', description || "Ono Oahu — Hawaii's best restaurant guide. Discover the best restaurants on Oahu from beachfront dining to hidden gems.");
     setMeta('robots', 'index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1');
-    setMeta('canonical', canonicalUrl);
+    setLink('canonical', canonicalUrl);
     setMeta('keywords', 'Oahu restaurants, Hawaii food guide, Waikiki dining, North Shore food, best restaurants Oahu, Hawaiian food, poke bowls, plate lunch, food trucks, happy hour');
     setMeta('author', 'Ono Oahu');
 
@@ -52,6 +67,19 @@ export default function SEOHead({
     setMeta('og:image', image, true);
     setMeta('og:site_name', 'Ono Oahu', true);
     setMeta('og:locale', 'en_US', true);
+
+    // Article-specific OG tags (for Google Discover)
+    if (type === 'article') {
+      if (articleDate) {
+        setMeta('article:published_time', articleDate, true);
+        setMeta('article:modified_time', articleDate, true);
+      }
+      setMeta('article:author', 'Ono Oahu', true);
+      if (articleCategory) {
+        setMeta('article:section', articleCategory, true);
+      }
+      setMeta('article:publisher', 'https://www.onooahu.com', true);
+    }
 
     // Twitter Cards
     setMeta('twitter:card', 'summary_large_image');
@@ -72,7 +100,16 @@ export default function SEOHead({
       script.textContent = JSON.stringify(schema);
     }
 
-  }, [title, description, image, type, schema, canonicalUrl]);
+    return () => {
+      // Cleanup article-specific meta tags when navigating away
+      if (type !== 'article') {
+        ['article:published_time', 'article:modified_time', 'article:author', 'article:section', 'article:publisher'].forEach(prop => {
+          const meta = document.querySelector(`meta[property="${prop}"]`);
+          if (meta) meta.remove();
+        });
+      }
+    };
+  }, [title, description, image, type, schema, canonicalUrl, articleDate, articleCategory]);
 
   return null;
 }
