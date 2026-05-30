@@ -6,12 +6,12 @@ import { ScrollTrigger } from 'gsap/ScrollTrigger';
 gsap.registerPlugin(ScrollTrigger);
 
 const neighborhoods = [
-  { name: 'Waikiki', count: 25, slug: 'waikiki', image: '/images/neighborhood-waikiki.jpg' },
-  { name: 'North Shore', count: 18, slug: 'north-shore', image: '/images/neighborhood-northshore.jpg' },
-  { name: 'Chinatown', count: 15, slug: 'chinatown', image: '/images/neighborhood-chinatown.jpg' },
-  { name: "Kaka'ako", count: 3, slug: 'kakaako', image: '/images/neighborhood-kakaako.jpg' },
-  { name: 'Kaimuki', count: 10, slug: 'kaimuki', image: '/images/neighborhood-kaimuki.jpg' },
-  { name: 'Windward Coast', count: 9, slug: 'windward-coast', image: '/images/neighborhood-windward.jpg' },
+  { name: 'Waikiki', count: 10, slug: 'waikiki', image: '/images/neighborhood-waikiki.jpg' },
+  { name: 'North Shore', count: 2, slug: 'north-shore', image: '/images/neighborhood-northshore.jpg' },
+  { name: 'Chinatown', count: 4, slug: 'chinatown', image: '/images/neighborhood-chinatown.jpg' },
+  { name: "Kaka'ako", count: 5, slug: 'kakaako', image: '/images/neighborhood-kakaako.jpg' },
+  { name: 'Kaimuki', count: 6, slug: 'kaimuki', image: '/images/neighborhood-kaimuki.jpg' },
+  { name: 'Windward Coast', count: 3, slug: 'windward-coast', image: '/images/neighborhood-windward.jpg' },
 ];
 
 export default function Neighborhoods() {
