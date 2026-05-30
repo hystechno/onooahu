@@ -326,7 +326,7 @@ export const restaurants: Restaurant[] = [
     phone: '(808) 931-6000',
     hours: 'Daily: 10AM-10PM',
     mustTry: ['Nikutama Udon', 'Tempura', 'Curry Udon'],
-    image: '/images/hero-card-1.jpg',
+    image: '/images/marukame-udon.jpg',
     tags: ['cheap eats', 'fresh noodles', 'counter service', 'long lines'],
   },
   {
@@ -341,7 +341,7 @@ export const restaurants: Restaurant[] = [
     phone: '(808) 926-8085',
     hours: 'Daily: 11AM-9:30PM',
     mustTry: ['Kurobuta Pork Cutlet', 'Tenderloin Set', 'Ground Sesame Sauce'],
-    image: '/images/hero-card-2.jpg',
+    image: '/images/tonkatsu-ginza-bairin.jpg',
     tags: ['imported chain', 'premium pork', 'set meals'],
   },
   {
@@ -356,7 +356,7 @@ export const restaurants: Restaurant[] = [
     phone: '(808) 922-0011',
     hours: 'Dinner: Tue-Sat (Reservations required)',
     mustTry: ['Omakase Menu', 'Aged Maguro', 'Hawaiian Snapper'],
-    image: '/images/hero-card-3.jpg',
+    image: '/images/sushi-sho.jpg',
     tags: ['omakase', 'Edomae', 'reservations required', 'special occasion'],
   },
   // Vietnamese & Asian Fusion
@@ -372,7 +372,7 @@ export const restaurants: Restaurant[] = [
     phone: '(808) 585-8255',
     hours: 'Tue-Sat: Lunch & Dinner',
     mustTry: ['Pho French Dip', 'Laotian Fried Chicken', 'P&L Pho'],
-    image: '/images/hero-card-4.jpg',
+    image: '/images/pig-and-the-lady.jpg',
     tags: ['James Beard', 'Chinatown', 'pho', 'loud atmosphere'],
   },
   {
@@ -387,7 +387,7 @@ export const restaurants: Restaurant[] = [
     phone: '(808) 369-1011',
     hours: 'Mon-Sat: 11AM-9PM',
     mustTry: ['Banh Mi Burger', 'Lemongrass Chicken Bowl', 'Vietnamese Coffee'],
-    image: '/images/hero-card-5.jpg',
+    image: '/images/piggy-smalls.jpg',
     tags: ['casual', 'counter service', 'Chinatown sibling'],
   },
   // Fine Dining
@@ -403,7 +403,7 @@ export const restaurants: Restaurant[] = [
     phone: '(808) 369-1390',
     hours: 'Wed-Sat: Dinner service',
     mustTry: ['Tasting Menu', 'Fresh Catch', 'Housemade Pasta'],
-    image: '/images/hero-card-6.jpg',
+    image: '/images/fete.jpg',
     tags: ['James Beard', 'tasting menu', 'farm to table', 'special occasion'],
   },
   {
@@ -418,7 +418,7 @@ export const restaurants: Restaurant[] = [
     phone: '(808) 518-8100',
     hours: 'Daily: 4:30PM-9PM',
     mustTry: ['Macadamia Nut Crusted Mahi', 'Kahuku Shrimp', 'Kona Lobster'],
-    image: '/images/neighborhood-kakaako.jpg',
+    image: '/images/merrimans-honolulu.jpg',
     tags: ['Hawaii Regional Cuisine', 'farm to table', 'sunset views', 'Peter Merriman'],
   },
   // Local Institutions
@@ -434,7 +434,7 @@ export const restaurants: Restaurant[] = [
     phone: '(808) 973-0880',
     hours: 'Most locations 24 hours',
     mustTry: ['Chili Rice', 'Oxtail Soup', 'Coco Puff'],
-    image: '/images/hero-card-7.jpg',
+    image: '/images/zippys.jpg',
     tags: ['24 hours', 'local chain', 'Chili', 'late night', 'bakery'],
   },
   {
@@ -449,7 +449,7 @@ export const restaurants: Restaurant[] = [
     phone: '(808) 677-9494',
     hours: 'Mon-Thu: 9:30AM-8PM, Fri: 9:30AM-8:30PM, Sat: 9AM-8:30PM, Sun: 9AM-3PM',
     mustTry: ['Hawaiian Plate', 'Pipikaula', 'Squid Luau', 'Poi'],
-    image: '/images/neighborhood-windward.jpg',
+    image: '/images/highway-inn.jpg',
     tags: ['traditional Hawaiian', 'since 1947', 'lau lau', 'family style'],
   },
   {
@@ -464,7 +464,7 @@ export const restaurants: Restaurant[] = [
     phone: '(808) 739-3939',
     hours: 'Daily: 3PM-Midnight',
     mustTry: ['Pan-Fried Pork Chops', 'Fried Rice', 'Kim Chee'],
-    image: '/images/hero-card-8.jpg',
+    image: '/images/side-street-inn.jpg',
     tags: ['chef hangout', 'pork chops', 'huge portions', 'late night'],
   },
   // Seafood Specialists
@@ -480,7 +480,7 @@ export const restaurants: Restaurant[] = [
     phone: '(808) 540-1377',
     hours: 'Mon-Sat: 6:30AM-9PM, Sun: 10AM-9PM',
     mustTry: ['Furikake Pan-Seared Ahi', 'Fish and Chips', 'Daily Specials'],
-    image: '/images/hero-card-2.jpg',
+    image: '/images/nicos-pier-38.jpg',
     tags: ['fresh catch', 'fish auction', 'plate lunch', 'harbor views'],
   },
   {
@@ -495,7 +495,7 @@ export const restaurants: Restaurant[] = [
     phone: '(808) 675-0229',
     hours: 'Daily: 8AM-5PM',
     mustTry: ['Shoyu Ahi Poke', 'Spicy Ahi Poke', 'Spam Musubi', 'Fried Marlin'],
-    image: '/images/hero-card-1.jpg',
+    image: '/images/taniokas-seafoods.jpg',
     tags: ['poke', 'takeout only', 'spam musubi', 'local favorite'],
   },
   // North Shore & Windward
@@ -511,7 +511,7 @@ export const restaurants: Restaurant[] = [
     phone: '(808) 293-2022',
     hours: 'Thu-Mon: 10AM-5PM (Closed Tue-Wed)',
     mustTry: ['Butter Garlic Shrimp', 'Spicy Garlic Prawns', 'Fried Shrimp'],
-    image: '/images/hero-card-4.jpg',
+    image: '/images/romys-kahuku-prawns.jpg',
     tags: ['shrimp truck', 'cash only', 'prawn farm', 'long lines'],
   },
   {
@@ -526,7 +526,7 @@ export const restaurants: Restaurant[] = [
     phone: '(808) 247-6671',
     hours: 'Mon-Sat: Dinner, Sun: Brunch & Dinner',
     mustTry: ['Fresh Catch', 'Prime Rib', 'Sunday Brunch', 'Mai Tai'],
-    image: '/images/neighborhood-windward.jpg',
+    image: '/images/haleiwa-joes-haiku.jpg',
     tags: ['garden dining', 'scenic', 'Sunday brunch', 'reservations'],
   },
   {
@@ -541,7 +541,7 @@ export const restaurants: Restaurant[] = [
     phone: '(808) 261-5555',
     hours: 'Daily: 6:30AM-1PM',
     mustTry: ['Lilikoi Pancakes', 'Loco Moco', 'Kailua Benedict'],
-    image: '/images/hero-card-5.jpg',
+    image: '/images/mokes-bread-and-breakfast.jpg',
     tags: ['breakfast', 'pancakes', 'lilikoi', 'Kailua favorite'],
   },
   {
@@ -556,7 +556,7 @@ export const restaurants: Restaurant[] = [
     phone: '(808) 263-3279',
     hours: 'Tue-Sat: Dinner',
     mustTry: ['Tinned Fish Board', 'Pasteis de Nata', 'Bacalhau'],
-    image: '/images/hero-card-6.jpg',
+    image: '/images/faria.jpg',
     tags: ['Portuguese', 'small plates', 'wine bar', 'new'],
   },
   // Brunch & Breakfast
@@ -572,7 +572,7 @@ export const restaurants: Restaurant[] = [
     phone: '(808) 732-8920',
     hours: 'Wed-Mon: 7AM-2PM (Closed Tue)',
     mustTry: ['Dumplings All Day Wong', 'Cornflake French Toast', 'Kimchi Fried Rice'],
-    image: '/images/hero-card-7.jpg',
+    image: '/images/koko-head-cafe.jpg',
     tags: ['brunch', 'no reservations', 'celebrity chef', 'Kaimuki'],
   },
   {
@@ -587,7 +587,7 @@ export const restaurants: Restaurant[] = [
     phone: '(808) 737-7919',
     hours: 'Tue-Sat: 5:30PM-9PM',
     mustTry: ['Breadfruit Gnocchi', 'Farm Vegetables', 'Hawaiian Cocktails'],
-    image: '/images/hero-card-8.jpg',
+    image: '/images/mud-hen-water.jpg',
     tags: ['farm to table', 'seasonal menu', 'Ed Kenney', 'cocktails'],
   },
   // Dim Sum & Chinese
@@ -603,7 +603,7 @@ export const restaurants: Restaurant[] = [
     phone: '(808) 777-6633',
     hours: 'Daily: 11AM-10PM',
     mustTry: ['Har Gow', 'Venison Puffs', 'Macarons', 'Cocktails'],
-    image: '/images/hero-card-3.jpg',
+    image: '/images/yauatcha-waikiki.jpg',
     tags: ['dim sum', 'International Market Place', 'desserts', 'happy hour'],
   },
   // Craft Cocktails
@@ -619,7 +619,7 @@ export const restaurants: Restaurant[] = [
     phone: '(808) 768-8406',
     hours: 'Tue-Sat: 4PM-12AM (Sun-Mon: Closed)',
     mustTry: ['Lavender Mule', 'Oaxaca Old Fashioned', '$1 Oysters (HH)'],
-    image: '/images/neighborhood-kakaako.jpg',
+    image: '/images/bevy.jpg',
     tags: ['craft cocktails', 'oysters', 'happy hour', 'patio', 'Kakaako'],
   },
 ];
