@@ -33,7 +33,7 @@ export default function CollectionPage() {
       />
       <PageLayout>
         <div className="relative h-[400px] md:h-[500px] overflow-hidden">
-          <img src={collection.image} alt={collection.title} className="w-full h-full object-cover" />
+          <img loading="lazy" src={collection.image} alt={collection.title} className="w-full h-full object-cover" />
           <div className="absolute inset-0 bg-gradient-to-t from-[#1a1a1a]/90 via-[#1a1a1a]/30 to-transparent" />
           <div className="absolute bottom-0 left-0 right-0 p-8 md:p-16 max-w-[1280px] mx-auto">
             <p className="text-xs uppercase tracking-[0.08em] text-[#d4a574] font-sans mb-3">Collection</p>
@@ -61,7 +61,7 @@ export default function CollectionPage() {
                   className="group bg-white rounded-xl overflow-hidden shadow-[0_2px_12px_rgba(0,0,0,0.06)] hover:shadow-[0_12px_40px_rgba(0,0,0,0.12)] transition-all"
                 >
                   <div className="aspect-[16/10] overflow-hidden relative">
-                    <img src={r.image} alt={r.name} className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105" />
+                    <img loading="lazy" src={r.image} alt={r.name} className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105" />
                     <div className="absolute top-3 right-3 bg-white/90 backdrop-blur-sm px-2.5 py-1 rounded-full">
                       <span className="text-xs font-sans font-medium text-[#1a1a1a]">{r.price}</span>
                     </div>

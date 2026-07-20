@@ -1,10 +1,11 @@
 import { useEffect, useState } from 'react';
-import { Link, useLocation } from 'react-router';
+import { Link, useLocation, useNavigate } from 'react-router';
 import GoogleTranslate from './GoogleTranslate';
 
 export default function Navigation() {
   const [scrolled, setScrolled] = useState(false);
   const location = useLocation();
+  const navigate = useNavigate();
   const isHome = location.pathname === '/';
 
   useEffect(() => {
@@ -25,6 +26,13 @@ export default function Navigation() {
   const handleNav = (id: string) => {
     if (isHome) {
       scrollToSection(id);
+    } else {
+      // Navigate to home first, then scroll after page loads
+      navigate('/');
+      // Small delay to let the home page render before scrolling
+      setTimeout(() => {
+        scrollToSection(id);
+      }, 300);
     }
   };
 

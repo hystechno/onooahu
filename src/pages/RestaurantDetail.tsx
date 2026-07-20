@@ -51,7 +51,7 @@ export default function RestaurantDetail() {
       <PageLayout>
         {/* Hero Header */}
         <div className="relative h-[400px] md:h-[500px] overflow-hidden">
-          <img src={restaurant.image} alt={restaurant.name} className="w-full h-full object-cover" />
+          <img loading="lazy" src={restaurant.image} alt={restaurant.name} className="w-full h-full object-cover" />
           <div className="absolute inset-0 bg-gradient-to-t from-[#1a1a1a]/90 via-[#1a1a1a]/30 to-transparent" />
           <div className="absolute bottom-0 left-0 right-0 p-8 md:p-16 max-w-[1280px] mx-auto">
             <div className="flex items-center gap-3 mb-4">
@@ -212,7 +212,7 @@ export default function RestaurantDetail() {
                 {related.map((r) => (
                   <Link key={r.id} to={`/restaurants/${r.id}`} className="group bg-white rounded-xl overflow-hidden shadow-[0_2px_12px_rgba(0,0,0,0.06)] hover:shadow-[0_8px_24px_rgba(0,0,0,0.1)] transition-all">
                     <div className="aspect-[16/10] overflow-hidden">
-                      <img src={r.image} alt={r.name} className="w-full h-full object-cover transition-transform duration-300 group-hover:scale-105" />
+                      <img loading="lazy" src={r.image} alt={r.name} className="w-full h-full object-cover transition-transform duration-300 group-hover:scale-105" />
                     </div>
                     <div className="p-4">
                       <p className="text-[11px] uppercase tracking-[0.06em] text-[#d4a574] font-sans mb-1">{r.neighborhood}</p>

@@ -11,7 +11,7 @@ const RESERVATION_LINKS: Record<string, string> = {
   'giovannis-shrimp-truck': '', // Food truck - no reservations
   'onos-seafood': '', // Takeout counter
   'helena-hawaiian-food': '', // Cash only, counter service
-  'westman-cafe': 'https://www.opentable.com', // Generic placeholder
+  'westman-cafe': '', // Walk-in cafe, no reservations
   'leonards-bakery': '', // Bakery - no reservations
   'skull-crown': '', // Bar - no reservations
   'liliha-bakery': '', // Bakery

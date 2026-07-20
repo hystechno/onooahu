@@ -79,7 +79,7 @@ export default function BlogPost() {
       <PageLayout>
         {/* Hero Header */}
         <div className="relative h-[350px] md:h-[450px] overflow-hidden">
-          <img src={post.image} alt={post.title} className="w-full h-full object-cover" />
+          <img loading="lazy" src={post.image} alt={post.title} className="w-full h-full object-cover" />
           <div className="absolute inset-0 bg-gradient-to-t from-[#1a1a1a]/90 via-[#1a1a1a]/30 to-transparent" />
           <div className="absolute bottom-0 left-0 right-0 p-8 md:p-16 max-w-[1280px] mx-auto">
             <div className="flex items-center gap-3 mb-4">

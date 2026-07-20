@@ -113,9 +113,12 @@ export default function FeaturedCollections() {
             </Link>
           ))}
 
-          <span className="inline-flex items-center gap-2 mt-4 text-lg font-serif italic text-[#1a1a1a] underline underline-offset-4 hover:text-[#d4a574] transition-colors self-start cursor-pointer">
+          <Link
+            to="/discover"
+            className="inline-flex items-center gap-2 mt-4 text-lg font-serif italic text-[#1a1a1a] underline underline-offset-4 hover:text-[#d4a574] transition-colors self-start cursor-pointer"
+          >
             View All Collections
-          </span>
+          </Link>
         </div>
       </div>
     </section>

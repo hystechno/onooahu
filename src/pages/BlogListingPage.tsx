@@ -23,7 +23,7 @@ export default function BlogListingPage() {
       <PageLayout>
         {/* Hero Header */}
         <div className="relative h-[300px] md:h-[350px] overflow-hidden">
-          <img src="/images/hero-card-2.jpg" alt="Oahu food stories" className="w-full h-full object-cover" />
+          <img loading="lazy" src="/images/hero-card-2.jpg" alt="Oahu food stories" className="w-full h-full object-cover" />
           <div className="absolute inset-0 bg-gradient-to-t from-[#1a1a1a]/90 via-[#1a1a1a]/40 to-transparent" />
           <div className="absolute bottom-0 left-0 right-0 p-8 md:p-16 max-w-[1280px] mx-auto">
             <p className="text-[11px] uppercase tracking-[0.08em] text-[#d4a574] font-sans mb-3">From the Guide</p>

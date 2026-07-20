@@ -18,7 +18,7 @@ export default function PageLayout({ children }: { children: React.ReactNode }) 
             { label: 'Discover', to: '/discover' },
             { label: 'Neighborhoods', to: '/neighborhoods/waikiki' },
             { label: 'Collections', to: '/collections/beachfront' },
-            { label: 'Stories', to: '/blog/best-poke-bowls' },
+            { label: 'Stories', to: '/blog' },
           ].map((link) => (
             <Link
               key={link.label}
