@@ -1,4 +1,5 @@
 import PageLayout from '../components/PageLayout';
+import Breadcrumbs from '../components/Breadcrumbs';
 import SEOHead from '../components/SEOHead';
 import MonetizeBanner from '../components/MonetizeBanner';
 import { getBreadcrumbSchema } from '../utils/schema';
@@ -17,6 +18,7 @@ export default function AboutPage() {
         schema={schema}
       />
       <PageLayout>
+      <Breadcrumbs items={[{ label: 'About' }]} />
         {/* Hero */}
         <div className="relative h-[350px] md:h-[400px] overflow-hidden">
           <img loading="lazy" src="/images/hero-card-7.jpg" alt="Oahu food" className="w-full h-full object-cover" />

@@ -1,5 +1,6 @@
 import { useParams, Link, Navigate } from 'react-router';
 import PageLayout from '../components/PageLayout';
+import Breadcrumbs from '../components/Breadcrumbs';
 import SEOHead from '../components/SEOHead';
 import MonetizeBanner from '../components/MonetizeBanner';
 import { TravelCTADuo } from '../components/TravelCTA';
@@ -35,6 +36,7 @@ export default function NeighborhoodPage() {
         schema={schema}
       />
       <PageLayout>
+      <Breadcrumbs items={[{ label: 'Neighborhoods', to: '/neighborhoods/waikiki' }, { label: neighborhood.name }]} />
         {/* Hero Header */}
         <div className="relative h-[400px] md:h-[500px] overflow-hidden">
           <img loading="lazy" src={neighborhood.image} alt={neighborhood.name} className="w-full h-full object-cover" />

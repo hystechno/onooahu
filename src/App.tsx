@@ -10,6 +10,8 @@ import NeighborhoodPage from './pages/NeighborhoodPage';
 import DiscoverPage from './pages/DiscoverPage';
 import AboutPage from './pages/AboutPage';
 import FAQPage from './pages/FAQPage';
+import PrivacyPolicy from './pages/PrivacyPolicy';
+import TermsOfService from './pages/TermsOfService';
 import NotFoundPage from './pages/NotFoundPage';
 
 function ScrollToTop() {
@@ -34,6 +36,8 @@ export default function App() {
         <Route path="/blog/:slug" element={<BlogPost />} />
         <Route path="/about" element={<AboutPage />} />
         <Route path="/faq" element={<FAQPage />} />
+        <Route path="/privacy" element={<PrivacyPolicy />} />
+        <Route path="/terms" element={<TermsOfService />} />
         <Route path="*" element={<NotFoundPage />} />
       </Routes>
     </ErrorBoundary>

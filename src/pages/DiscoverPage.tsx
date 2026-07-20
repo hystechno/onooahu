@@ -1,6 +1,7 @@
 import { useState } from 'react';
 import { Link } from 'react-router';
 import PageLayout from '../components/PageLayout';
+import Breadcrumbs from '../components/Breadcrumbs';
 import SEOHead from '../components/SEOHead';
 import MonetizeBanner from '../components/MonetizeBanner';
 import AdSenseSlot from '../components/AdSenseSlot';
@@ -29,6 +30,7 @@ export default function DiscoverPage() {
         schema={schema}
       />
       <PageLayout>
+      <Breadcrumbs items={[{ label: 'Discover' }]} />
         {/* Hero Header */}
         <div className="relative h-[350px] md:h-[400px] overflow-hidden">
           <img loading="lazy" src="/images/hero-card-3.jpg" alt="Oahu dining" className="w-full h-full object-cover" />

@@ -1,5 +1,6 @@
 import { useParams, Link, Navigate } from 'react-router';
 import PageLayout from '../components/PageLayout';
+import Breadcrumbs from '../components/Breadcrumbs';
 import SEOHead from '../components/SEOHead';
 import MonetizeBanner from '../components/MonetizeBanner';
 import AdSenseSlot from '../components/AdSenseSlot';
@@ -32,6 +33,7 @@ export default function CollectionPage() {
         schema={schema}
       />
       <PageLayout>
+      <Breadcrumbs items={[{ label: 'Collections', to: '/collections/beachfront' }, { label: collection.title }]} />
         <div className="relative h-[400px] md:h-[500px] overflow-hidden">
           <img loading="lazy" src={collection.image} alt={collection.title} className="w-full h-full object-cover" />
           <div className="absolute inset-0 bg-gradient-to-t from-[#1a1a1a]/90 via-[#1a1a1a]/30 to-transparent" />

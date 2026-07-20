@@ -25,6 +25,8 @@ export default function Footer() {
                 { label: 'Neighborhoods', to: '/neighborhoods/waikiki' },
                 { label: 'FAQ', to: '/faq' },
                 { label: 'About', to: '/about' },
+                { label: 'Privacy Policy', to: '/privacy' },
+                { label: 'Terms of Service', to: '/terms' },
               ].map((link) => (
                 <li key={link.label}>
                   <Link

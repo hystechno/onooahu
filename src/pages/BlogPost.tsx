@@ -1,6 +1,7 @@
 import { useParams, Link, Navigate } from 'react-router';
 import PageLayout from '../components/PageLayout';
 import SEOHead from '../components/SEOHead';
+import Breadcrumbs from '../components/Breadcrumbs';
 import MonetizeBanner from '../components/MonetizeBanner';
 import AdSenseSlot from '../components/AdSenseSlot';
 import { blogPosts } from '../data/restaurants';
@@ -77,6 +78,7 @@ export default function BlogPost() {
         articleCategory={post.category}
       />
       <PageLayout>
+        <Breadcrumbs items={[{ label: 'Stories', to: '/blog' }, { label: post.title }]} />
         {/* Hero Header */}
         <div className="relative h-[350px] md:h-[450px] overflow-hidden">
           <img loading="lazy" src={post.image} alt={post.title} className="w-full h-full object-cover" />

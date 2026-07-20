@@ -1,5 +1,6 @@
 import { useParams, Navigate, Link } from 'react-router';
 import PageLayout from '../components/PageLayout';
+import Breadcrumbs from '../components/Breadcrumbs';
 import SEOHead from '../components/SEOHead';
 import MonetizeBanner from '../components/MonetizeBanner';
 import { TravelCTARestaurantSidebar } from '../components/TravelCTA';
@@ -49,6 +50,7 @@ export default function RestaurantDetail() {
         schema={schema}
       />
       <PageLayout>
+        <Breadcrumbs items={[{ label: 'Discover', to: '/discover' }, { label: restaurant.name }]} />
         {/* Hero Header */}
         <div className="relative h-[400px] md:h-[500px] overflow-hidden">
           <img loading="lazy" src={restaurant.image} alt={restaurant.name} className="w-full h-full object-cover" />

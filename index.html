@@ -8,18 +8,32 @@
     <meta name="google-site-verification" content="google1aa66904dd74b553" />
     <!-- Google Publisher Center — speeds up inclusion in Google News/Discover -->
     <meta name="google-publisher-verification" content="PUBLISHER_ID_PLACEHOLDER" />
+
+    <!-- DNS Preconnect for faster third-party loading -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preconnect" href="https://www.googletagmanager.com">
+    <link rel="preconnect" href="https://pagead2.googlesyndication.com">
+    <link rel="preconnect" href="https://translate.google.com">
+    <link rel="dns-prefetch" href="https://emrld.ltd">
+    <link rel="dns-prefetch" href="https://api.fontshare.com">
+
     <link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&display=swap" rel="stylesheet">
     <link href="https://api.fontshare.com/v2/css?f[]=satoshi@400,500,700&display=swap" rel="stylesheet">
+
     <!-- Google Analytics 4 -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-15VDGTM9M1"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
-      gtag('config', 'G-15VDGTM9M1');
+      gtag('config', 'G-15VDGTM9M1', {
+        send_page_view: true,
+        allow_google_signals: true,
+        allow_ad_personalization_signals: true
+      });
     </script>
+
     <!-- Google AdSense — Replace ca-pub-XXXXXXXXXXXXXXXX with your real ID after approval -->
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXXXXXXXX"
      crossorigin="anonymous"></script>
@@ -33,6 +47,7 @@
       }
     </script>
     <script src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
     <!-- Travelpayouts tracking pixel -->
     <script data-noptimize="1" data-cfasync="false" data-wpfc-render="false" data-no-defer="1">
       (function () {

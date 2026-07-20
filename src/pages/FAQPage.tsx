@@ -1,5 +1,6 @@
 import { Link } from 'react-router';
 import PageLayout from '../components/PageLayout';
+import Breadcrumbs from '../components/Breadcrumbs';
 import SEOHead from '../components/SEOHead';
 import MonetizeBanner from '../components/MonetizeBanner';
 import { getFAQSchema, getBreadcrumbSchema } from '../utils/schema';
@@ -64,6 +65,7 @@ export default function FAQPage() {
         schema={combinedSchema}
       />
       <PageLayout>
+      <Breadcrumbs items={[{ label: 'FAQ' }]} />
         {/* Hero */}
         <div className="relative h-[300px] md:h-[350px] overflow-hidden">
           <img loading="lazy" src="/images/hero-card-2.jpg" alt="Oahu food guide FAQ" className="w-full h-full object-cover" />
