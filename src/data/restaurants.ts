@@ -996,6 +996,91 @@ At 13,000 square feet, Earls is impossible to ignore. And with a 1 AM last call 
 
 **Earls Kitchen + Bar** — 2280 Kalakaua Ave, Waikiki. Open daily 11 AM–midnight (Fri-Sat until 1 AM). Happy hour 2-5 PM & 10 PM-close daily. Reservations: (808) 751-2299.`,
 },
+{
+  slug: 'best-breakfast-brunch',
+  title: "The Best Breakfast & Brunch Spots on Oahu",
+  category: 'Food',
+  date: 'August 10, 2026',
+  excerpt: 'From fluffy souffle pancakes to oceanfront breakfast and legendary malasadas, these are the morning spots that make waking up early in Hawaii worth it.',
+  image: '/images/blog-brunch.jpg',
+  content: `Breakfast in Hawaii hits different. Maybe it's the tropical air, the sound of waves in the distance, or the fact that Hawaiian breakfast culture runs deep — from traditional loco moco gravy boats to Japanese-inspired souffle pancakes that jiggle their way onto your Instagram feed.
+
+In this guide, we're sharing the best breakfast and brunch spots on Oahu, from iconic institutions that locals have been frequenting for generations to trendy newcomers redefining what morning food can be. Whether you're an early riser chasing sunrise or a brunch-for-lunch type, these spots deliver.
+
+## 1. Moke's Bread & Breakfast (Kailua)
+
+Tucked away in Kailua on the Windward side, Moke's is the kind of place that makes you consider moving to the neighborhood just to eat here every weekend. The lilikoi pancakes are the main event — fluffy, golden, and drenched in house-made passion fruit syrup that strikes the perfect balance between tart and sweet. The loco moco here is also exceptional: a handmade beef patty over rice, topped with a fried egg and brown gravy that tastes like it simmered all morning.
+
+The atmosphere is pure old-school Hawaii — unpretentious, friendly, and always bustling with a mix of locals, surfers, and visitors who got the tip. Expect a wait on weekends. It's worth it.
+
+**Must Try:** Lilikoi Pancakes, Loco Moco, Kailua Benedict
+
+## 2. Liliha Bakery (Kalihi)
+
+Open 24 hours and baking since 1950, Liliha Bakery is a Honolulu institution that feels like stepping into a time capsule — in the best way possible. The counter stools, the regulars who have been coming for decades, and the smell of fresh bread and pancakes on the griddle create an atmosphere that can't be manufactured.
+
+While their coco puffs (cream puffs filled with chocolate custard and topped with chantilly frosting) get most of the attention, the all-day breakfast menu is where Liliha truly shines. The pancakes are perfectly fluffy, the bacon is thick-cut and crispy, and the portions are generous. Open at 2 AM for the night owls and early enough for the sunrise crowd.
+
+**Must Try:** Coco Puffs, Pancakes, Chantilly Cake
+
+## 3. Duke's Waikiki (Waikiki)
+
+Yes, Duke's is famous for dinner and mai tais at sunset, but their breakfast might be the most underrated meal here. Picture this: toes in the sand, waves crashing 20 feet away, a plate of fresh tropical fruit and macadamia nut pancakes in front of you. The Barefoot Bar serves breakfast starting at 7 AM, and the oceanfront seating is first-come, first-served.
+
+The Hawaiian-style breakfast plate — with Portuguese sausage, eggs, and rice — is a classic local combination that pairs perfectly with the view. This is the breakfast experience visitors dream about and locals still make time for.
+
+**Must Try:** Hawaiian Breakfast Plate, Macadamia Nut Pancakes, Fresh Tropical Fruit
+
+## 4. Westman Cafe (Kakaako)
+
+The newest spot on this list, Westman Cafe burst onto the Kakaako breakfast scene in early 2026 and immediately earned a devoted following. The bright, airy space with light wood and turquoise accents feels like a Melbourne cafe transplanted to Honolulu — and that's a compliment.
+
+The souffle pancakes are the star: impossibly tall, ethereally fluffy, and served with seasonal fruit and house-made syrups. The avocado toast is elevated with local microgreens and chili flakes, and the specialty coffee program is serious. This is where Honolulu's creative crowd gathers for morning meetings and leisurely weekend brunches.
+
+**Must Try:** Souffle Pancake, Avocado Toast, House Latte
+
+## 5. Koko Head Cafe (Kaimuki)
+
+Chef Lee Anne Wong's Koko Head Cafe single-handedly elevated Honolulu's breakfast game when it opened. The menu is a love letter to Hawaii's multicultural food culture — think cornflake-crusted French toast with coconut syrup, kimchi bacon hash, and miso-smoked pork belly and eggs.
+
+The vintage-diner-meets-tropical-garden atmosphere is charming, and the open kitchen lets you watch the crew work their magic. The coffee is excellent, the cocktails (for those hair-of-the-dog mornings) are creative, and the food is consistently rated among the best breakfast on the island.
+
+**Must Try:** Cornflake French Toast, Kimchi Bacon Hash, Miso Pork Belly & Eggs
+
+## 6. Leonard's Bakery (Kapahulu)
+
+Technically a bakery, not a restaurant, but no breakfast guide to Oahu is complete without Leonard's. Since 1952, this tiny Kapahulu shop has been turning out malasadas — Portuguese donuts that are fried fresh, rolled in sugar, and served warm. The original is perfect, but the filled varieties (custard, chocolate, haupia) are worth the extra calories.
+
+The line wraps around the block every morning, but it moves fast. Grab a dozen, walk across the street to Kapiolani Park, and enjoy your breakfast with Diamond Head in the background. It's a Honolulu ritual.
+
+**Must Try:** Original Malasada, Haupia Malasada, Custard Malasada
+
+## 7. Zippy's (Multiple Locations)
+
+Zippy's is Hawaii's diner — open 24 hours, affordable, and serving everything from chili rice to oxtail soup to Korean chicken. But breakfast is where Zippy's truly shines. The Portuguese sausage, eggs, and rice plate is a local staple, and the pancakes are surprisingly good for a chain.
+
+The real secret is the Napoleon Bakery attached to most locations. Their coco puffs (cream-filled pastry pillows covered in chocolate chantilly) are legendary, and their breakfast pastries are baked fresh throughout the morning. If you're up at 3 AM jet-lagged and hungry, Zippy's is your friend.
+
+**Must Try:** Portuguese Sausage & Eggs, Chili Rice, Napoleon Bakery Coco Puffs
+
+## 8. Haleiwa Joe's (Kaneohe)
+
+For a special occasion brunch, Haleiwa Joe's at Haiku Gardens is unmatched. The Sunday brunch is a local tradition — the open-air restaurant overlooks a botanical garden with mountain views, koi ponds, and tropical flowers. The menu features fresh catch, prime rib, and classic brunch dishes with a Hawaiian twist.
+
+Reservations are essential — this place books up weeks in advance, especially for Sunday brunch. The mai tais are strong, the setting is stunning, and the food is consistently excellent. This is where locals go to celebrate birthdays, anniversaries, and "we made it through another week."
+
+**Must Try:** Sunday Brunch, Fresh Catch, Prime Rib, Mai Tai
+
+## Breakfast Tips for Visitors
+
+- **Go early.** Popular spots like Leonard's and Moke's develop lines by 8 AM on weekends.
+- **Try the local classics.** Loco moco, Portuguese sausage and eggs, and malasadas are Hawaiian breakfast staples for a reason.
+- **Don't skip the coffee.** Hawaii grows some of the world's best coffee — Kona and Ka'u beans are served at most local cafes.
+- **Be patient.** Hawaiian time is real, and breakfast here is meant to be enjoyed slowly.
+- **Cash helps.** Some local institutions are still cash-only or prefer it.
+
+Breakfast in Hawaii isn't just a meal — it's a ritual. It's the slow pour of Kona coffee, the first bite of a warm malasada, the view of the Pacific from a beachfront table. These spots capture that magic, one morning at a time.`,
+},
 ];
 
 
