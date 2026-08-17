@@ -1231,6 +1231,108 @@ Reservations are essential — this place books up weeks in advance, especially 
 
 Breakfast in Hawaii isn't just a meal — it's a ritual. It's the slow pour of Kona coffee, the first bite of a warm malasada, the view of the Pacific from a beachfront table. These spots capture that magic, one morning at a time.`,
 },
+{
+  slug: 'north-shore-food-tour',
+  title: "The Ultimate North Shore Food Tour: A Local's Driving Itinerary",
+  category: 'Travel',
+  date: 'August 12, 2026',
+  excerpt: 'Map your way up Oahu\'s legendary North Shore from Haleiwa to Kahuku, hitting the best shrimp trucks, bakeries, shave ice, and oceanfront restaurants in a single unforgettable day.',
+  image: '/images/blog-northshore-tour.jpg',
+  content: `The North Shore of Oahu isn't just a destination — it's a 20-mile stretch of culinary pilgrimage. While most visitors make the hour-long drive from Waikiki for a single plate of garlic shrimp and a quick photo at Pipeline, locals know that the real magic of the North Shore unfolds slowly, one food stop at a time, over the course of an entire day.
+
+This is the itinerary I give friends when they visit for the first time: a mile-by-mile food tour that starts in Haleiwa town before the crowds arrive and ends at Sunset Beach with a full belly and sandy toes. Bring cash, bring a cooler bag for leftovers, and don't plan on eating dinner — you'll still be full.
+
+## Stop 1: Kono's Northshore — Haleiwa (7:00 AM)
+
+Before the sun is fully up, start your day the way locals do: with a Breakfast Bomber from Kono's. This massive burrito is stuffed with Kono's famous 12-hour slow-roasted kalua pig, scrambled eggs, breakfast potatoes, and melted cheese — all wrapped in a warm flour tortilla and served with a side of house-made salsa.
+
+Kono's opens at 7 AM, and the pre-surf crowd is already here, grabbing burritos and coffee before paddling out. The atmosphere is pure North Shore: casual, friendly, and completely unpretentious. Eat at one of the picnic tables out front, and watch the early morning surfers heading toward Haleiwa Harbor.
+
+**What to order:** Breakfast Bomber, Kalua Pig Plate (if you're splitting with a group)
+**Pro tip:** Order online ahead of time if you're in a rush — the kitchen gets slammed by 8:30 AM.
+
+## Stop 2: Matsumoto Shave Ice — Haleiwa (8:30 AM)
+
+Yes, it's 8:30 AM. No, that's not too early for shave ice.
+
+Matsumoto has been serving fluffy, superfine shave ice since 1951, and the line wraps around the block by mid-morning. Arriving early means you'll actually get your order in under 10 minutes — and there's something magical about eating lilikoi shave ice with ice cream on the bottom while the morning sun is still soft.
+
+The classic combination: lilikoi and mango syrup with vanilla ice cream and a snow cap (condensed milk). The ice is so fine it practically melts on your tongue, and the house-made syrups aren't overly sweet — they taste like actual fruit.
+
+**What to order:** Matsumoto Special (lilikoi + mango + ice cream + snow cap)
+**Pro tip:** Bring a second person to hold a spot in line while you browse the souvenir shop inside.
+
+## Stop 3: Farm to Barn — Haleiwa (10:00 AM)
+
+By now you've had savory and sweet — time for something fresh. Farm to Barn is a charming red barn cafe that opened in the heart of Haleiwa with a plant-forward, health-conscious menu. The Barn Burrito is a local favorite, packed with scrambled eggs, local vegetables, avocado, and house-made salsa. The uala (sweet potato) waffles are fluffy and slightly sweet, served with fresh tropical fruit and coconut syrup.
+
+The outdoor seating area has picnic tables, lawn games, and a relaxed country vibe that feels miles away from Waikiki. It's also a great spot to charge your phone and plan the next leg of your journey.
+
+**What to order:** Barn Burrito, Uala Waffles, fresh-pressed green juice
+**Pro tip:** The attached juicery has excellent grab-and-go options for the rest of your drive.
+
+## Stop 4: Seven Brothers — Kahuku (11:30 AM)
+
+Drive 15 minutes north to Kahuku, home of the Seven Brothers burger empire. This family-run spot (started by, yes, seven brothers) has been a North Shore staple since 2009, and their burgers are massive, juicy, and topped with creative combinations you won't find anywhere else.
+
+The Coconut Macadamia Shrimp Burger is the signature — a beef patty topped with crispy coconut shrimp, pineapple, and house-made sauce on a toasted bun. The coconut chocolate chip banana bread is the sleeper hit — order a slice to go, you'll want it later.
+
+**What to order:** The Original Burger, Coconut Macadamia Shrimp Burger, Coconut Chocolate Chip Banana Bread
+**Pro tip:** The Kahuku at the Mill location has the biggest menu and most seating. Call ahead for large orders.
+
+## Stop 5: Ted's Bakery — Sunset Beach (1:00 PM)
+
+Located just off the highway near Sunset Beach, Ted's Bakery is where you come for the chocolate haupia cream pie — and stay for the garlic shrimp plate lunch.
+
+The pie is legendary for a reason: layers of chocolate pudding, haupia (coconut pudding), and whipped cream on a buttery, flaky crust. It's the dessert that launched a thousand food blog posts. But Ted's also serves excellent plate lunches — the garlic shrimp plate rivals anything at the food trucks, and the portions are generous.
+
+Grab your food and walk across the street to the beach. Eating a slice of chocolate haupia pie with your toes in the sand, watching the surfers at Sunset Beach, is one of the great North Shore experiences.
+
+**What to order:** Chocolate Haupia Cream Pie (get a whole one to take home), Garlic Shrimp Plate
+**Pro tip:** Whole pies sell out by mid-afternoon on weekends. Get there early if you want one.
+
+## Stop 6: Giovanni's Shrimp Truck — Kahuku (3:00 PM)
+
+The granddaddy of them all. Giovanni's Shrimp Truck is the reason most people drive to the North Shore in the first place, and after five stops you're finally ready for it.
+
+Their garlic shrimp scampi — plump shrimp swimming in a pool of buttery, garlicky, slightly spicy sauce over two scoops of white rice — is the definitive North Shore food experience. The garlic butter soaks into the rice, creating a kind of savory garlic porridge that locals fight over.
+
+There are multiple Giovanni's locations now, but the original Kahuku truck is still the best. The line moves fast, and the outdoor seating area is shaded by a giant tree.
+
+**What to order:** Garlic Shrimp Scampi, Spicy Garlic Shrimp
+**Pro tip:** Bring wet wipes. Lots of wet wipes. The garlic sauce gets everywhere — and you'll love every minute of it.
+
+## Stop 7: Banzai Sushi Bar — Haleiwa (5:30 PM)
+
+After a day of eating heavy, it's time for something light and fresh. Banzai Sushi Bar, located in the Haleiwa shopping plaza, serves some of the best sushi on the island — and that's saying something in Hawaii.
+
+Named best sushi by the American Tasting Institute, Banzai focuses on pristine, locally sourced fish. The Pipeline Sashimi Combo is the must-order: a selection of the day's freshest catch, beautifully plated and served with pickled ginger and wasabi. The Wagyu Beef and Seared Furikake Ahi round out the menu for non-sushi eaters.
+
+Chef Hide's obsessive focus on quality means the fish is never less than perfect. This is the kind of meal that resets your palate after a day of fried shrimp and sweet desserts.
+
+**What to order:** Pipeline Sashimi Combo, Wagyu Beef, Wabi Sabi Roll
+**Pro tip:** Arrive right at 5:30 PM when they open. They don't take reservations, and the waitlist fills up fast.
+
+## Stop 8: Haleiwa Beach House — Haleiwa (7:30 PM)
+
+End your day where the North Shore meets the Pacific. Haleiwa Beach House is a stunning two-story oceanfront restaurant with panoramic views, and sunset dinner here is the perfect finale to your food tour.
+
+The upstairs dining room and wraparound lanai face the water, and the menu focuses on fresh island fish with Hawaiian-influenced preparations. The macadamia nut-crusted catch is the signature — flaky white fish coated in crushed macadamia nuts and pan-seared to golden perfection. Pair it with a Haleiwa Sunset Cocktail and watch the sky turn orange and pink over the Pacific.
+
+**What to order:** Macadamia Nut-Crusted Fish, Kona Lobster Tail, Haleiwa Sunset Cocktail
+**Pro tip:** Request a lanai table when you arrive — the ocean breeze and sunset views make the meal.
+
+## The North Shore Food Tour: Tips for Success
+
+- **Start early.** The first food stop is at 7 AM for a reason — you'll avoid crowds and eat the freshest food of the day.
+- **Bring cash.** Many shrimp trucks and small spots are still cash-only.
+- **Share everything.** These portions are massive. Order one item per stop and split with your group.
+- **Wear comfortable clothes.** This is a day of eating — leave the fancy outfit for another night.
+- **Check the surf report.** Winter swells bring massive waves and massive crowds. Eat early or eat late.
+- **Don't skip the pie.** Even if you're full. Especially if you're full. Ted's chocolate haupia cream pie is worth every calorie.
+
+The North Shore food tour isn't just about eating — it's about experiencing rural Hawaii at the pace it was meant to be experienced. Slow, generous, and always with an ocean view. By the time you crawl back into your car at sunset, you'll understand why locals make this drive every weekend — and why you'll be back too.`,
+},
 ];
 
 
