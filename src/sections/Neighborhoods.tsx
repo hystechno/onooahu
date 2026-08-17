@@ -10,7 +10,7 @@ const neighborhoods = [
   { name: 'North Shore', count: 9, slug: 'north-shore', image: '/images/neighborhood-northshore.jpg' },
   { name: 'Chinatown', count: 5, slug: 'chinatown', image: '/images/neighborhood-chinatown.jpg' },
   { name: "Kaka'ako", count: 5, slug: 'kakaako', image: '/images/neighborhood-kakaako.jpg' },
-  { name: 'Kaimuki', count: 6, slug: 'kaimuki', image: '/images/neighborhood-kaimuki.jpg' },
+  { name: 'Kaimuki', count: 2, slug: 'kaimuki', image: '/images/neighborhood-kaimuki.jpg' },
   { name: 'Windward Coast', count: 3, slug: 'windward-coast', image: '/images/neighborhood-windward.jpg' },
 ];
 

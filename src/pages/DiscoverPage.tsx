@@ -12,10 +12,11 @@ import { getReservationLink } from '../utils/affiliate';
 export default function DiscoverPage() {
   const [activeFilter, setActiveFilter] = useState('All');
 
+  const realRestaurants = restaurants.filter((r) => !r.id.endsWith('-hh'));
   const categories = ['All', ...collections.map((c) => c.title)];
   const filtered = activeFilter === 'All'
-    ? restaurants
-    : restaurants.filter((r) => r.category === activeFilter);
+    ? realRestaurants
+    : realRestaurants.filter((r) => r.category === activeFilter);
 
   const schema = getBreadcrumbSchema([
     { name: 'Home', url: 'https://www.onooahu.com/' },
@@ -26,7 +27,7 @@ export default function DiscoverPage() {
     <>
       <SEOHead
         title="Discover All Restaurants"
-        description={`Browse all ${restaurants.length} curated restaurants on Oahu. Filter by Beachfront Dining, Hidden Gems, Plate Lunch, and Happy Hours.`}
+        description={`Browse all ${realRestaurants.length} curated restaurants on Oahu. Filter by Beachfront Dining, Hidden Gems, Plate Lunch, and Happy Hours.`}
         schema={schema}
       />
       <PageLayout>
@@ -38,7 +39,7 @@ export default function DiscoverPage() {
           <div className="absolute bottom-0 left-0 right-0 p-8 md:p-16 max-w-[1280px] mx-auto">
             <p className="text-[11px] uppercase tracking-[0.08em] text-[#d4a574] font-sans mb-3">Complete Guide</p>
             <h1 className="text-4xl md:text-5xl text-white font-serif leading-[1.1] tracking-tight mb-3">Discover Oahu's Best</h1>
-            <p className="text-base text-[#f5ede4]/80 font-sans max-w-xl">{restaurants.length} hand-picked restaurants across the island — from food trucks to fine dining.</p>
+            <p className="text-base text-[#f5ede4]/80 font-sans max-w-xl">{realRestaurants.length} hand-picked restaurants across the island — from food trucks to fine dining.</p>
           </div>
         </div>
 
