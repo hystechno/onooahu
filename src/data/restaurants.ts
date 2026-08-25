@@ -1340,6 +1340,14 @@ The North Shore food tour isn't just about eating — it's about experiencing ru
   date: 'August 18, 2026',
   excerpt: 'From Leonard\'s warm malasadas to Ted\'s legendary chocolate haupia pie, these are the 6 Hawaiian desserts worth every single calorie.',
   image: '/images/blog-desserts.jpg',
+  gallery: [
+    '/images/ig-dessert-1-leonards.jpg',
+    '/images/ig-dessert-2-teds.jpg',
+    '/images/ig-dessert-3-matsumoto.jpg',
+    '/images/ig-dessert-4-poihaupia.jpg',
+    '/images/ig-dessert-5-waiola.jpg',
+    '/images/ig-dessert-6-liliha.jpg',
+  ],
   content: `Hawaii's dessert scene isn't just an afterthought — it's a culture unto itself. Born from Portuguese, Japanese, Chinese, and Polynesian influences, the sweet treats you'll find across Oahu tell the story of the islands' immigrant history, one sugar-dusted bite at a time.
 
 In this guide, we're skipping the fancy restaurant desserts and going straight to the iconic institutions: the bakeries that open at 2 AM, the food trucks that have lines around the block, and the tiny shops that have been using the same recipe for three generations. These are the desserts locals grew up on, the treats visitors dream about after they leave, and the flavors that define Hawaii's unique food culture.
