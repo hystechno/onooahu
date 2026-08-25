@@ -1333,6 +1333,93 @@ The upstairs dining room and wraparound lanai face the water, and the menu focus
 
 The North Shore food tour isn't just about eating — it's about experiencing rural Hawaii at the pace it was meant to be experienced. Slow, generous, and always with an ocean view. By the time you crawl back into your car at sunset, you'll understand why locals make this drive every weekend — and why you'll be back too.`,
 },
+{
+  slug: 'best-desserts-oahu',
+  title: "Oahu's Best Desserts and Sweet Treats: A Sugar Lover's Guide",
+  category: 'Food',
+  date: 'August 18, 2026',
+  excerpt: 'From Leonard\'s warm malasadas to Ted\'s legendary chocolate haupia pie, these are the 6 Hawaiian desserts worth every single calorie.',
+  image: '/images/blog-desserts.jpg',
+  content: `Hawaii's dessert scene isn't just an afterthought — it's a culture unto itself. Born from Portuguese, Japanese, Chinese, and Polynesian influences, the sweet treats you'll find across Oahu tell the story of the islands' immigrant history, one sugar-dusted bite at a time.
+
+In this guide, we're skipping the fancy restaurant desserts and going straight to the iconic institutions: the bakeries that open at 2 AM, the food trucks that have lines around the block, and the tiny shops that have been using the same recipe for three generations. These are the desserts locals grew up on, the treats visitors dream about after they leave, and the flavors that define Hawaii's unique food culture.
+
+## 1. Leonard's Bakery — Malasadas (Kapahulu)
+
+Leonard's is the undisputed king of Hawaiian desserts. Since 1952, this tiny Kapahulu bakery has been turning out malasadas — Portuguese donuts that are fried fresh, rolled in sugar, and served warm enough to make your fingertips tingle.
+
+The original malasada is perfect in its simplicity: a fluffy, eggy dough ball fried until golden, then rolled in granulated sugar while still hot. But Leonard's filled varieties are the real draw — custard, chocolate, haupia (coconut), and doce de leche are piped into the warm center, creating a molten surprise that runs down your chin with every bite.
+
+The line wraps around the block every morning, but it moves fast. Grab a dozen (trust me, you'll eat more than you plan to), walk across the street to Kapiolani Park, and enjoy your malasadas with Diamond Head in the background. It's a Honolulu ritual.
+
+**Must Try:** Original Malasada, Haupia Malasada, Custard Malasada
+**Pro tip:** Go early. The line is shortest before 8 AM, and the malasadas are at their warmest, fluffiest peak.
+
+## 2. Ted's Bakery — Chocolate Haupia Cream Pie (Sunset Beach)
+
+Ted's Bakery sits just off the Kamehameha Highway near Sunset Beach, and it's the reason many locals make the drive to the North Shore even when the surf is flat. The chocolate haupia cream pie is the signature — and it's the kind of dessert that ruins all other pies for you.
+
+The construction is deceptively simple: a flaky, buttery pie crust layered with chocolate pudding, haupia (a traditional Hawaiian coconut milk pudding), and a thick cloud of whipped cream on top. Each layer is distinct, each bite is a perfect ratio of chocolate to coconut to cream, and the whole thing is served cold, which somehow makes it taste even more refreshing after a hot day at the beach.
+
+Ted's also makes an excellent haupia pie (no chocolate), a pineapple macadamia nut cream pie, and a rotating selection of fruit pies. But the chocolate haupia is the one that put them on the map — and the one that keeps people coming back.
+
+**Must Try:** Chocolate Haupia Cream Pie, Haupia Pie, Pineapple Macadamia Nut Cream Pie
+**Pro tip:** Whole pies sell out by mid-afternoon on weekends. Get there before noon if you want one to take home.
+
+## 3. Matsumoto Shave Ice — Lilikoi Special (Haleiwa)
+
+Since 1951, Matsumoto Shave Ice has been the definitive North Shore refreshment stop. What started as a grocery store in Haleiwa has become an island icon, serving fluffy, superfine shave ice drenched in vibrant house-made syrups.
+
+The difference between mainland snow cones and Hawaiian shave ice is the texture. Matsumoto's ice is shaved so fine it practically melts on your tongue — no crunchy ice chunks, just a cloud of sweetness that absorbs the syrup rather than just getting coated by it. The house-made syrups taste like actual fruit, not artificial candy.
+
+Locals know the secret: add vanilla ice cream at the bottom and condensed milk on top (a "snow cap") for the full experience. The ice cream creates a creamy base that catches the melted syrup, and the snow cap adds a rich, sweet finish.
+
+**Must Try:** Matsumoto Special (lilikoi + mango + ice cream + snow cap), Rainbow Shave Ice
+**Pro tip:** The line moves fast, but it still wraps around the block by 10 AM. Go early or go late.
+
+## 4. Kamehameha Bakery — Poi Haupia (Kalihi)
+
+In the industrial Kalihi neighborhood, Kamehameha Bakery opens at 2 AM to serve the early risers and night-owls alike. But it's not the hours that make this place special — it's the Poi Haupia, a creation so unique to Hawaii that it barely translates to outsiders.
+
+Imagine this: a fluffy, bright purple taro bun, naturally colored by poi (fermented taro paste), filled with creamy haupia pudding made from coconut milk. The bun is light and slightly sweet, with a subtle earthy flavor from the taro. The haupia filling is cool, rich, and coconut-forward. Together, they create a handheld dessert that's simultaneously unique to Hawaii and utterly addictive.
+
+The bakery case also overflows with sweet bread, banana bread, danishes, and pan de coco — all baked fresh throughout the morning. But the Poi Haupia is the star, and locals buy them by the dozen.
+
+**Must Try:** Poi Haupia, Sweet Bread, Banana Bread, Pan de Coco
+**Pro tip:** Cash only, no seating. Grab a few and eat them in your car or at nearby Kalihi District Park.
+
+## 5. Waiola Shave Ice — The Neighborhood Standard (Waikiki)
+
+While tourists flock to Matsumoto, locals will tell you that Waiola Shave Ice is the real deal. This tiny shave ice stand on Waiola Street has been serving the neighborhood since 1940, and the regulars know that Waiola's ice is even finer than Matsumoto's — so fine it dissolves before it hits your tongue.
+
+The syrup selection is extensive, with flavors ranging from classic strawberry and blue vanilla to more adventurous options like li hing mui (salty dried plum), pickled mango, and lychee. The ice cream options include local favorites like azuki bean and macadamia nut.
+
+What sets Waiola apart is the texture — it's the finest shave ice on the island, practically molecular in its delicacy. It doesn't melt into a puddle; it dissolves into sweet, flavored air.
+
+**Must Try:** Lilikoi with Snow Cap, Li Hing Mui with Vanilla Ice Cream
+**Pro tip:** Waiola is less crowded than Matsumoto, and the neighborhood vibe is more relaxed. A great option if you don't want to drive to the North Shore.
+
+## 6. Liliha Bakery — Coco Puffs (Kalihi & Multiple Locations)
+
+Liliha Bakery is an institution. Open 24 hours since 1950, this Kalihi counter has been feeding Honolulu through every conceivable hour — and the coco puffs are the reason people come at 3 AM.
+
+A coco puff is a cream puff filled with chocolate custard and topped with Liliha's signature chantilly frosting — a buttery, not-too-sweet frosting that somehow tastes better at 2 AM than at 2 PM. The pastry shell is light and flaky, the chocolate custard is rich but not cloying, and the chantilly frosting ties it all together in a way that makes you understand why people drive across the island for these.
+
+Beyond coco puffs, Liliha serves excellent pancakes, waffles, and breakfast pastries — all baked fresh and available around the clock. The diner atmosphere, with its counter stools and regulars who have been coming for decades, makes eating a coco puff at Liliha feel like a genuine Honolulu experience.
+
+**Must Try:** Coco Puffs, Chantilly Cake, Pancakes
+**Pro tip:** Buy a box of coco puffs to take home — they're just as good the next day (if they last that long).
+
+## Dessert Culture in Hawaii: What You Need to Know
+
+- **Go early or go late.** Popular spots like Leonard's and Matsumoto develop lines by mid-morning. The early bird gets the warmest malasada.
+- **Cash is king.** Small bakeries and food trucks still prefer cash. Bring small bills.
+- **Share with friends.** These portions are generous, and you'll want to try more than one spot.
+- **Don't skip the classics.** Malasadas, shave ice, and haupia aren't just desserts — they're edible history.
+- **Ask for the local secret.** At every spot, there's a combination or topping that locals know about. Don't be afraid to ask.
+
+Hawaiian desserts aren't an afterthought — they're the main event. From warm, sugar-dusted malasadas to cold, creamy haupia pie, these treats capture the islands' multicultural soul in every bite. Come hungry, leave happy, and don't even think about counting calories.`,
+},
 ];
 
 
