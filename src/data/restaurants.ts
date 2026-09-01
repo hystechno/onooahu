@@ -1428,6 +1428,85 @@ Beyond coco puffs, Liliha serves excellent pancakes, waffles, and breakfast past
 
 Hawaiian desserts aren't an afterthought — they're the main event. From warm, sugar-dusted malasadas to cold, creamy haupia pie, these treats capture the islands' multicultural soul in every bite. Come hungry, leave happy, and don't even think about counting calories.`,
 },
+{
+  slug: 'chinatown-food-crawl',
+  title: "Honolulu Chinatown Food Crawl: A Local's Guide to the Island's Most Delicious Neighborhood",
+  category: 'Food',
+  date: 'September 1, 2026',
+  excerpt: 'From dawn dim sum to 2 AM tiki cocktails, this walking crawl through Honolulu\'s Chinatown hits 5 legendary spots — including two James Beard-honored restaurants and the pho French dip that broke the internet.',
+  image: '/images/blog-chinatown-crawl.jpg',
+  content: `Honolulu's Chinatown is one of the oldest in America — and pound for pound, the most exciting food neighborhood on Oahu. Within a few walkable blocks, you'll find a James Beard Award winner, a James Beard semifinalist, the island's best dim sum, and a hidden tiki bar slinging cocktails until 2 AM. Most visitors never make it past Waikiki's beachfront — which is exactly why this crawl works. The crowds are thinner, the prices are friendlier, and the food is, frankly, better.
+
+This crawl is designed as a full day of eating, from morning dim sum to late-night mai tais. Everything is within a 10-minute walk (one short detour excepted), the dress code is "comfortable shoes and stretchy pants," and the total damage can stay under $100 per person if you play it smart. Bring cash, bring friends, and bring an appetite.
+
+What makes Chinatown special isn't just the food — it's the layers. This neighborhood has been feeding Honolulu since the 1800s, through fires, plagues, and reinvention. Today, third-generation noodle shops share blocks with tattooed chefs and natural-wine bars. The crawl below follows that arc: the oldest flavors first, the boldest last, with the sun going down somewhere in between.
+
+## 1. Mei Sum Dim Sum — Start With the Classics (8 AM)
+
+Every great Chinatown crawl begins with dim sum, and Mei Sum is the gold standard. This family-run institution on Nuuanu Avenue has been Honolulu Magazine's top dim sum pick, and one bite of their har gow tells you why: plump, sweet shrimp wrapped in a translucent skin so delicate it practically dissolves.
+
+There's no cart service here — you order at the counter and the food arrives fresh from the kitchen, which means everything comes out hotter and fresher than the cart places. The siu mai are juicy and packed with pork, the baked char siu bao arrive warm with caramelized BBQ pork filling, and the egg tarts have that perfect wobble.
+
+The room itself is pure old Chinatown: fluorescent lights, laminated menus, and multi-generational families sharing lazy Susans of steaming bamboo baskets. Order more than you think you need — dim sum portions are small, prices are gentle, and the mochi rice, studded with lap cheong and wrapped in lotus leaf, is the kind of thing you'll think about on the flight home.
+
+**Must Try:** Har Gow, Siu Mai, Baked Char Siu Bao, Egg Tarts, Mochi Rice
+**Pro tip:** Get there right at 8 AM opening. By 9:30 the counter line stretches out the door, and popular items sell out by early afternoon. Cash moves the line faster.
+
+## 2. The Pig and the Lady — Lunch at a James Beard Landmark (12 PM)
+
+Walk five minutes to North King Street and prepare for the loudest, most joyful room in Honolulu. Chef Andrew Le's Vietnamese-fusion flagship is a James Beard semifinalist, and the menu reads like a love letter to his mother's cooking filtered through Hawaii's multicultural lens.
+
+The dish that made this place famous is the pho French dip — a banh mi-style sandwich of slow-braised brisket served with a side of concentrated pho broth for dipping. It sounds like a gimmick until you taste it: the broth is deep, aromatic, and intensely beefy, and the sandwich soaks it up like it was born to. The Laotian fried chicken, lacquered and shatteringly crisp, is the other must-order.
+
+The energy here is part of the meal. Music bumps, the open kitchen flames leap, and tables of locals celebrate birthdays next to wide-eyed visitors who just had their minds changed about what Vietnamese food can be. Save room for whatever special is scrawled on the board — Le's rotating dishes are where the kitchen really shows off.
+
+**Must Try:** Pho French Dip, Laotian Fried Chicken, P&L Pho
+**Pro tip:** Reservations are essential for dinner, but weekday lunch is your best shot at walking in. Sit at the counter if you can — watching the kitchen work is half the fun.
+
+## 3. Piggy Smalls — The Casual Detour (3 PM Snack)
+
+Here's the one stop that requires a short ride: The Pig and the Lady's fast-casual little sibling sits near Ala Moana, and it's absolutely worth the five-minute detour. Piggy Smalls distills the flagship's flavors into counter-service comfort food — banh mi burgers, rice bowls piled with lemongrass chicken, and Vietnamese iced coffee on tap.
+
+This is your mid-afternoon refuel stop. Share a banh mi burger, nurse a coffee, and rest your feet before the evening push. The space is small and unpretentious, the prices are gentle, and the flavors are anything but casual.
+
+The banh mi burger deserves its reputation: a juicy patty dressed with pickled daikon and carrots, cilantro, jalapeno, and sriracha aioli on a toasted baguette-style bun — all the brightness of a banh mi, all the satisfaction of a burger. The Vietnamese iced coffee, slow-dripped and sweetened with condensed milk, is strong enough to power you through the rest of the crawl.
+
+**Must Try:** Banh Mi Burger, Lemongrass Chicken Bowl, Vietnamese Coffee
+**Pro tip:** If you'd rather stay on foot in Chinatown, swap this stop for a stroll through the open markets on Maunakea Street — the produce and fish stalls are a show in themselves.
+
+## 4. Fete — Dinner at Honolulu's Most Important Restaurant (6 PM)
+
+Back in Chinatown for the main event. Chef Robynne Mai'i is a James Beard Award winner, and Fete is her deeply personal love letter to Hawaii's food culture. The restaurant occupies a historic brick building on North Hotel Street — exposed brick, dim lighting, an open kitchen that fills the room with energy and the smell of brown butter.
+
+The menu is inventive and locally driven: housemade pastas with island ingredients, the day's fresh catch treated with reverence, and a tasting menu that tells the story of Hawaii one course at a time. This is special-occasion dining without a hint of stuffiness — the room buzzes, the staff glows, and every plate lands like it matters.
+
+What makes Fete extraordinary is how personal it feels. Mai'i sources from small island farms and fishermen she knows by name, and the menu changes with what they bring to the back door. Ask your server what's best tonight — the answer is delivered with genuine excitement, and it's never wrong. The wine list, compact and adventurous, is one of the smartest in town.
+
+**Must Try:** Tasting Menu, Fresh Catch, Housemade Pasta
+**Pro tip:** Book well in advance — Fete only serves dinner Wednesday through Saturday, and tables go weeks out. If you can't get in, the bar seats are sometimes held for walk-ins.
+
+## 5. Skull & Crown Trading Co. — The 2 AM Finish (9 PM)
+
+End the night two minutes up the street at Chinatown's best-kept secret. Skull & Crown is a hidden tiki bar with a dimly lit, nautical-themed interior that feels like a secret society meeting — all dark wood, flickering lanterns, and the quiet clink of serious cocktails being built.
+
+The Chief Lapu Lapu is the signature: a bowl-sized rum punch that arrives with ceremony and enough fire to light the table. The Zombie is dangerously drinkable, and the pupu platter gives you one last chance to eat before last call. They pour until 2 AM on weekends, making this the perfect final chapter to a Chinatown day.
+
+The bartenders here are true tiki scholars — every drink is built with fresh juices, house-made syrups, and proper respect for the classics. If you're lucky enough to grab a corner booth, settle in. There's no better seat in Honolulu for watching the neighborhood's night unfold, one impeccably crafted cocktail at a time.
+
+**Must Try:** Chief Lapu Lapu, Zombie, Pupu Platter
+**Pro tip:** Tuesday through Saturday only, and it fills up after 9 PM. Arrive right at opening (5 PM) if you want the intimate vibe, or embrace the late-night crowd for the full experience.
+
+## Chinatown Crawl Tips: What You Need to Know
+
+- **Start early, pace yourself.** This is a marathon, not a sprint. Share plates at every stop — five full entrees will end your crawl by stop three.
+- **Bring cash.** Mei Sum and the smaller spots prefer it, and it speeds everything up.
+- **Walk it.** The whole crawl spans about half a mile. Walking between stops keeps you hungry and lets you absorb the neighborhood's markets, galleries, and street art.
+- **Book Fete first.** Everything else on this crawl flexes around your reservation. Lock it in before you plan the rest.
+- **Saturday is the sweet spot.** Every stop on this crawl is open, the markets are in full swing, and the neighborhood hums from morning to midnight. Weekdays are calmer if you prefer elbow room.
+- **Respect the neighborhood.** Chinatown is a living, working community — not a theme park. Be a good guest, tip well, and say mahalo.
+
+Honolulu's Chinatown rewards the curious. One block you're eating dumplings perfected over decades, the next you're drinking rum from a flaming bowl in a bar you almost walked past. That's the magic of this neighborhood — and this crawl is just the beginning.`,
+},
 ];
 
 
