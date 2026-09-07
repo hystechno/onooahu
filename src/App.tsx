@@ -1,18 +1,20 @@
 import { Routes, Route, useLocation } from 'react-router';
-import { useEffect } from 'react';
+import { Suspense, lazy, useEffect } from 'react';
 import ErrorBoundary from './components/ErrorBoundary';
 import Home from './pages/Home';
-import CollectionPage from './pages/CollectionPage';
-import BlogPost from './pages/BlogPost';
-import BlogListingPage from './pages/BlogListingPage';
-import RestaurantDetail from './pages/RestaurantDetail';
-import NeighborhoodPage from './pages/NeighborhoodPage';
-import DiscoverPage from './pages/DiscoverPage';
-import AboutPage from './pages/AboutPage';
-import FAQPage from './pages/FAQPage';
-import PrivacyPolicy from './pages/PrivacyPolicy';
-import TermsOfService from './pages/TermsOfService';
-import NotFoundPage from './pages/NotFoundPage';
+
+// Route-level code splitting: only the landing page is eager.
+const CollectionPage = lazy(() => import('./pages/CollectionPage'));
+const BlogPost = lazy(() => import('./pages/BlogPost'));
+const BlogListingPage = lazy(() => import('./pages/BlogListingPage'));
+const RestaurantDetail = lazy(() => import('./pages/RestaurantDetail'));
+const NeighborhoodPage = lazy(() => import('./pages/NeighborhoodPage'));
+const DiscoverPage = lazy(() => import('./pages/DiscoverPage'));
+const AboutPage = lazy(() => import('./pages/AboutPage'));
+const FAQPage = lazy(() => import('./pages/FAQPage'));
+const PrivacyPolicy = lazy(() => import('./pages/PrivacyPolicy'));
+const TermsOfService = lazy(() => import('./pages/TermsOfService'));
+const NotFoundPage = lazy(() => import('./pages/NotFoundPage'));
 
 function ScrollToTop() {
   const { pathname } = useLocation();
@@ -22,11 +24,20 @@ function ScrollToTop() {
   return null;
 }
 
+function PageLoader() {
+  return (
+    <div className="min-h-screen bg-[#f5ede4] flex items-center justify-center">
+      <p className="font-serif italic text-[#b8a08a] text-lg">Loading…</p>
+    </div>
+  );
+}
+
 export default function App() {
   return (
     <ErrorBoundary>
       <ScrollToTop />
-      <Routes>
+      <Suspense fallback={<PageLoader />}>
+        <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/discover" element={<DiscoverPage />} />
         <Route path="/collections/:slug" element={<CollectionPage />} />
@@ -39,7 +50,8 @@ export default function App() {
         <Route path="/privacy" element={<PrivacyPolicy />} />
         <Route path="/terms" element={<TermsOfService />} />
         <Route path="*" element={<NotFoundPage />} />
-      </Routes>
+        </Routes>
+      </Suspense>
     </ErrorBoundary>
   );
 }
