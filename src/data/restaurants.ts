@@ -1507,6 +1507,140 @@ The bartenders here are true tiki scholars — every drink is built with fresh j
 
 Honolulu's Chinatown rewards the curious. One block you're eating dumplings perfected over decades, the next you're drinking rum from a flaming bowl in a bar you almost walked past. That's the magic of this neighborhood — and this crawl is just the beginning.`,
 },
+{
+  slug: 'best-cheap-eats-oahu',
+  title: 'The 10 Best Cheap Eats on Oahu Under $15 (Local-Approved Guide)',
+  category: 'Food',
+  date: 'September 7, 2026',
+  excerpt: 'From gravy-smothered loco moco to hot $2 malasadas, these are the 10 best cheap eats on Oahu — every plate under $15, every spot beloved by locals.',
+  image: '/images/blog-cheap-eats.jpg',
+  content: `Oahu has a reputation for being expensive, and Waikiki's beachfront restaurants do little to fight it. But here's the secret locals know: the best food on the island is often the cheapest. The plate lunch counters, bakery windows, and mom-and-pop takeout spots that have fed Hawaii for generations will fill you up for less than the price of a single resort cocktail.
+
+So where are the best cheap eats on Oahu? The short answer: Rainbow Drive-In for plate lunches, Marukame Udon for Waikiki's best $10 meal, Helena's for traditional Hawaiian food, and Alicia's Market for poke — with Leonard's, Zippy's, and a trio of North Shore legends rounding out the list. Every spot below serves a genuinely satisfying meal for under $15, and most clock in closer to $10.
+
+We organized this guide geographically so you can eat your way across the island: Kapahulu and Waikiki first, then Kalihi and Chinatown, then a North Shore loop that doubles as the perfect budget day trip. Bring cash, bring an appetite, and prepare to eat better than people spending five times as much.
+
+## 1. Rainbow Drive-In — The Plate Lunch Blueprint (Kapahulu)
+
+If you only try one cheap eat on Oahu, make it Rainbow Drive-In. This Kapahulu institution has been slinging plate lunches since 1961, and the formula hasn't changed because it doesn't need to: two scoops of rice, a scoop of mac salad, and enough gravy-smothered protein to feed a small family. A full plate runs about $10 to $13 — less than a Waikiki mai tai.
+
+The mix plate is the move: a combination of BBQ beef, mahi mahi, and boneless chicken under a ladle of rich brown gravy. The loco moco — a hamburger patty over rice with a fried egg and gravy — is the textbook version of Hawaii's ultimate comfort food. And the chili rice, a local cult favorite, tastes like it came straight from a Honolulu home kitchen.
+
+The setup is pure old Hawaii: order at the window, grab a seat at the outdoor picnic tables, and watch the neighborhood roll by. It's a five-minute drive from the Waikiki strip, and the parking lot is free — a minor miracle in this part of town.
+
+**Must Try:** Mix Plate, Loco Moco, Chili Rice
+**Pro tip:** Find them at 3308 Kanaina Ave, open Monday through Saturday 7 AM to 9 PM, closed Sundays. Call (808) 737-0177 for takeout and skip the line.
+
+## 2. Marukame Udon — The Best $10 in Waikiki (Waikiki)
+
+The best cheap meal in Waikiki is hiding in plain sight on Kuhio Avenue. Marukame Udon makes its noodles fresh in front of you — you can watch the dough get rolled, cut, and boiled while you shuffle down the cafeteria line. A steaming bowl of udon costs around $6 to $9, and even loading up on tempura rarely pushes the total past $12.
+
+The Nikutama is the signature: springy, chewy noodles in a rich dashi broth, topped with sweet simmered beef and a soft-cooked egg that melts into the soup. The curry udon is a thick, warming alternative, and the self-serve tempura counter — shrimp, sweet potato, kabocha, chicken katsu — lets you build your own feast for a couple of dollars per piece.
+
+Yes, there's a line out the door. No, it doesn't matter — the line moves at cafeteria speed, and the whole operation runs with Japanese precision. This is fast food in format only; the quality rivals noodle shops charging three times as much.
+
+**Must Try:** Nikutama Udon, Curry Udon, Shrimp Tempura
+**Pro tip:** Located at 2310 Kuhio Ave, open daily 10 AM to 10 PM. The line is shortest before 11:30 AM and after 8 PM — call (808) 931-6000 with questions.
+
+## 3. Helena's Hawaiian Food — James Beard on a Budget (Kalihi)
+
+A James Beard Award winner where dinner costs less than a movie ticket? That's Helena's, the Kalihi institution that has served traditional Hawaiian food since 1946. This is the real thing — the dishes Native Hawaiians actually eat — and individual menu items run about $4 to $8, so a generous spread stays well under $15.
+
+The pipikaula short ribs are the legend: dried beef that's salty, smoky, and chewy in the best way, pan-fried and served in glistening slices. The kalua pig is tender and smoky from the imu-style preparation, and the lomi salmon — a fresh tomato and salmon relish — cuts through the richness like a Hawaiian pico de gallo. Add a side of poi if you're feeling adventurous.
+
+The room is humble — counter service, no frills, cash only — but that's the point. You're not paying for decor; you're paying for recipes that have been perfected over 75 years and recognized by the highest honor in American food.
+
+**Must Try:** Pipikaula Short Ribs, Kalua Pig, Lomi Salmon
+**Pro tip:** Find them at 1240 N School St, open Tuesday through Friday 10 AM to 7:30 PM. Bring cash, go before the lunch rush, and call (808) 845-8044 for takeout.
+
+## 4. Alicia's Market — Poke Like a Local (Kalihi)
+
+Ask a local where to get poke and a surprising number will point you to a tiny market on a quiet Kalihi side street. Alicia's Market serves some of the best poke on the island at prices that make Waikiki counters look like highway robbery — a half pound of poke with rice comes in well under $15.
+
+The spicy ahi is the crowd favorite: creamy, fiery, and studded with tobiko for crunch. The shoyu ahi lets the fish shine with a clean soy-sesame marinade, and the pipikaula — dried beef seasoned and fried — is a salty, addictive counterpoint. If raw fish isn't your thing, the crispy pork belly plate and garlic chicken are generous, affordable, and deeply satisfying.
+
+This is a takeout-only operation with no seating, so plan accordingly: grab your poke and drive five minutes to Sand Island or Keehi Lagoon for an impromptu harbor-side picnic. That's not a compromise — that's how poke is meant to be eaten.
+
+**Must Try:** Spicy Ahi Poke, Pipikaula, Crispy Pork Belly Plate
+**Pro tip:** Located at 267 Mokauea St, open Tuesday through Saturday 8 AM to 4 PM. Poke sells out by early afternoon — arrive before noon or call (808) 841-1922 to check what's left.
+
+## 5. Zippy's — The 24-Hour Safety Net (Island-wide)
+
+Every local has a Zippy's order, and asking about it is a shortcut to a passionate conversation. Hawaii's beloved diner chain is the island's 24-hour safety net — most locations never close — and a full meal of chili rice, Korean chicken, or a Zip Pac bento runs about $10 to $13.
+
+The chili is the icon: a meaty, mildly spiced local-style chili served over rice, ordered more than any other item on the menu. The oxtail soup is the connoisseur's choice — a rich, gingery broth with fall-apart oxtail that locals crave at 2 AM. And the Zip Pac, a bento of teri beef, fried chicken, fish, and spam over rice, is the greatest hits album on a plate.
+
+Don't skip the Napoleon Bakery attached to most locations. The coco puff — a cream puff filled with chocolate custard and topped with chantilly frosting — costs a few dollars and is the perfect finish to a meal that never should have been this good at this price.
+
+**Must Try:** Chili Rice, Oxtail Soup, Zip Pac, Coco Puff
+**Pro tip:** Multiple locations across Oahu, most open 24 hours. The Kapahulu and Makiki locations are closest to Waikiki. Call (808) 973-0880 for the nearest branch.
+
+## 6. Mei Sum Dim Sum — Chinatown's All-Day Deal (Chinatown)
+
+Dim sum is the original cheap eat, and Mei Sum is Honolulu's champion. This family-run Chinatown spot has been named the city's best dim sum by local readers and critics alike, serving classic Cantonese bites all day — no carts, no waiting for Sunday, just order at the counter. Baskets run a few dollars each, so four or five dishes with tea land comfortably under $15.
+
+The har gow are plump with sweet shrimp inside translucent skins, the siu mai are juicy and packed with pork, and the baked char siu bao arrive warm with caramelized BBQ pork in a golden, slightly sweet bun. Save room for the egg tarts — flaky crust, silky custard, still warm — and the mochi rice wrapped in lotus leaf, which eats like a meal by itself.
+
+The room is pure old Chinatown: fluorescent lights, laminated menus, and multi-generational families sharing steaming baskets. It's the cheapest ticket to one of the most authentic food experiences in Honolulu.
+
+**Must Try:** Har Gow, Siu Mai, Baked Char Siu Bao, Egg Tarts
+**Pro tip:** Find them at 1170 Nuuanu Ave, open daily 8 AM to 8 PM. Go before 9:30 AM to beat the line, and bring cash — call (808) 531-3268 for takeout.
+
+## 7. Leonard's Bakery — Hot Malasadas for Pocket Change (Kapahulu)
+
+The cheapest item on this list might be the most famous. Leonard's Bakery has been frying malasadas — Portuguese sugar-dusted donuts — since 1952, and at roughly $2 each, a hot malasada is the single best dollar-to-delight ratio on Oahu. A box of six with a coffee still leaves change from a $10 bill.
+
+The original malasada is perfect in its simplicity: fluffy, eggy dough fried until golden and rolled in sugar while still warm enough to tingle your fingertips. The filled versions — custard, chocolate, haupia, doce de leche — add a molten center for a small premium, and the li hing malasada dusted with tangy plum powder is a uniquely Hawaiian twist.
+
+The line wraps around the block most mornings, but it moves fast and the payoff arrives in a warm white box. Take your malasadas across the street toward Kapiolani Park and eat them with a Diamond Head view — a million-dollar backdrop for a two-dollar treat.
+
+**Must Try:** Original Malasada, Li Hing Malasada, Haupia-Filled Malasada
+**Pro tip:** Located at 933 Kapahulu Ave, open daily 5:30 AM to 10 PM. The line is shortest before 8 AM. Call (808) 737-5591 for large orders.
+
+## 8. Kono's Northshore — The Breakfast Bomber (Haleiwa)
+
+The North Shore is famous for surf, but locals know it's also a budget food paradise — starting with Kono's, a Haleiwa institution built on 12-hour slow-roasted kalua pig. The signature breakfast bomber — a burrito stuffed with eggs, potatoes, cheese, and that famous kalua pig — costs about $10 to $12 and will keep you full until dinner.
+
+The pork is the whole story: roasted low and slow until it collapses into tender, smoky shreds, then piled into bombers, sandwiches, and plates. The kalua pig plate with rice is the lunch move, and the kalua pig sandwich on a toasted bun is the grab-and-go option for the beach.
+
+Order at the counter, grab a seat, and watch the surf traffic roll past on Kamehameha Highway. This is post-beach fuel the way it's meant to be: fast, generous, and priced for people who live here.
+
+**Must Try:** Breakfast Bomber, Kalua Pig Plate, Kalua Pig Sandwich
+**Pro tip:** Find them at 66-250 Kamehameha Hwy in Haleiwa, open daily 7 AM to 7 PM. Morning lines move fast — call (808) 744-6705 with questions.
+
+## 9. Ted's Bakery — Pie for Breakfast, No Regrets (Sunset Beach)
+
+Ted's Bakery sits just off the highway near Sunset Beach, and while the chocolate haupia cream pie gets the fame, the whole operation is a budget goldmine. Plate lunches, breakfast fried rice, and garlic shrimp plates all run about $10 to $14 — and a slice of that famous pie adds only about $5 more.
+
+The pie deserves its own paragraph: a flaky crust layered with chocolate pudding, haupia coconut pudding, and a cloud of whipped cream, served cold. It's the dessert that launched a thousand food blog posts, and eating a slice on the beach across the street is a North Shore rite of passage.
+
+The savory side is just as strong. The garlic shrimp plate rivals the famous trucks at a friendlier price, and the fried rice special is the kind of simple, satisfying breakfast that fuels surfers between sessions. Come hungry, leave with a whole pie for the road — you'll thank yourself.
+
+**Must Try:** Chocolate Haupia Cream Pie, Garlic Shrimp Plate, Fried Rice Special
+**Pro tip:** Located at 59-024 Kamehameha Hwy, open daily 7 AM to 6:30 PM. Whole pies sell out by mid-afternoon on weekends — call (808) 638-8207 to reserve one.
+
+## 10. Matsumoto Shave Ice — The $5 Icon (Haleiwa)
+
+No cheap eats list is complete without the most famous dessert stop in Hawaii. Matsumoto Shave Ice has been the definitive North Shore refreshment since 1951, and a towering, rainbow-striped shave ice costs about $4 to $6 — the cheapest icon status you'll ever buy.
+
+What separates Hawaiian shave ice from a mainland snow cone is texture: Matsumoto's ice is shaved so fine it absorbs the syrup like fresh snow, with no crunchy chunks in sight. The house-made syrups — lilikoi, mango, strawberry, blue Hawaii — taste like actual fruit rather than candy.
+
+Locals know the upgrades: vanilla ice cream at the bottom and a condensed milk snow cap on top add a couple of dollars and transform the whole thing into a creamy, slurpable masterpiece. The line often wraps around the block, but it moves quickly — and that first bite after a hot beach day is pure Hawaii.
+
+**Must Try:** Lilikoi Shave Ice, Matsumoto Special, Snow Cap
+**Pro tip:** Find them at 66-111 Kamehameha Hwy in Haleiwa, open daily 9 AM to 6 PM. Go before 10 AM or after 4 PM to skip the longest lines. Call (808) 637-4827 for info.
+
+## Cheap Eats Tips: How to Eat Well on Oahu for Less
+
+- **Cash is king.** Rainbow Drive-In takes cards, but Helena's, Alicia's, and many small counters prefer or require cash. Bring small bills and skip the ATM fees.
+- **Go early.** The best budget spots sell out: Alicia's poke by early afternoon, Ted's whole pies by lunch, Leonard's freshest malasadas by mid-morning.
+- **Eat where the line is long.** A line of locals at a counter is the most reliable review score on the island — and it usually moves faster than it looks.
+- **Split the big plates.** Plate lunch portions at Rainbow Drive-In and Zippy's are enormous. Two people can share a mix plate and add a side for under $15 total.
+- **Cluster your stops.** Kapahulu (Rainbow, Leonard's) is one trip; Kalihi (Helena's, Alicia's) is another; Kono's, Ted's, and Matsumoto make a perfect North Shore loop.
+- **Skip the resort markup.** Every spot on this list is within 20 minutes of Waikiki, and every one of them beats a $30 hotel burger.
+
+Oahu's best food was never behind a resort gate — it's at the counters, windows, and bakery cases locals have lined up at for decades. Eat your way through this list and you'll spend less than one fancy dinner while tasting the real Hawaii.`,
+},
 ];
 
 
