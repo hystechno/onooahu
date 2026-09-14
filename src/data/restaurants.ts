@@ -1716,6 +1716,140 @@ Locals know the upgrades: vanilla ice cream at the bottom and a condensed milk s
 
 Oahu's best food was never behind a resort gate — it's at the counters, windows, and bakery cases locals have lined up at for decades. Eat your way through this list and you'll spend less than one fancy dinner while tasting the real Hawaii.`,
 },
+{
+  slug: 'best-family-restaurants-oahu',
+  title: 'The 10 Best Family-Friendly Restaurants on Oahu (Kid-Approved Guide)',
+  category: 'Food',
+  date: 'September 14, 2026',
+  excerpt: 'From toes-in-the-sand dinners at Duke\'s to lawn games at Farm to Barn, these are the 10 best family-friendly restaurants on Oahu — vetted for kids, parents, and grandparents alike.',
+  image: '/images/blog-family-restaurants.jpg',
+  content: `Traveling to Oahu with kids? Here's the good news: this island is one of the easiest places on earth to eat out as a family. Hawaii's food culture was built on casual counters, plate lunch windows, and backyard-style dining — which means high chairs, sandy feet, and loud toddlers are welcome almost everywhere locals eat.
+
+So where should families eat on Oahu? The short answer: Duke's Waikiki for a toes-in-the-sand sunset dinner, Marukame Udon for a fast meal kids actually finish, Zippy's for the menu that pleases every generation, and the North Shore strip — Giovanni's, Kono's, Farm to Barn, Seven Brothers, and Matsumoto — for the perfect family day trip. Every spot below is casual, quick, and genuinely good, not just "good for kids."
+
+We organized this guide the way a family vacation actually flows: Waikiki first, then the near-town classics, then a North Shore day, and finally a Windward Coast adventure. Every restaurant is in our vetted database, and every one has been chosen for the three things parents care about most: food kids will eat, an atmosphere that won't judge, and prices that won't sting.
+
+## 1. Duke's Waikiki — Toes-in-the-Sand Dinner (Waikiki)
+
+Yes, you can do a beachfront dinner with kids — and Duke's is the place. Named after surfing legend Duke Kahanamoku, this Waikiki institution sits right on the sand, with live Hawaiian music nightly and a barefoot bar where sandy feet are the dress code. Kids love the fish tacos and the open-air setting; parents love that the mai tais are excellent and nobody blinks at a wiggly toddler.
+
+The menu covers everyone: fresh island fish for the grown-ups, simple kid-friendly plates for the little ones, and the legendary Hula Pie — a mountain of macadamia nut ice cream on a chocolate cookie crust — that turns dessert into a family event. Order one for the table and watch it disappear.
+
+Arrive for an early dinner around 5 PM and you'll catch golden hour over the water, beat the dinner rush, and still get the kids to bed on time. It's the rare restaurant where "special" and "easy" coexist.
+
+**Must Try:** Hula Pie, Fish Tacos, Mai Tai (for the grown-ups)
+**Pro tip:** Find Duke's at 2335 Kalakaua Ave #116, open daily 7 AM to midnight — call (808) 922-2268 for reservations, and request patio seating near the beach.
+
+## 2. Marukame Udon — Dinner at Kid Speed (Waikiki)
+
+The family dinner secret weapon hiding on Kuhio Avenue: Marukame Udon makes its noodles fresh in front of you, and the cafeteria-style line means kids go from hungry to eating in under five minutes. Bowls run about $6 to $9, so feeding a family of four barely dents the vacation budget.
+
+The show is half the fun. Kids press against the glass watching dough get rolled, cut, and dropped into boiling water — then they get to build their own tray. The Nikutama udon (sweet beef and a soft egg in rich dashi) is the signature, the plain kake udon is perfect for picky eaters, and the self-serve tempura counter lets everyone grab exactly what they want: shrimp for dad, sweet potato for the six-year-old.
+
+No reservations, no waiting for a server, no pressure to linger — the line moves fast, the tables turn quickly, and the whole meal can be done in 30 minutes if the kids are melting down. It's the most stress-free dinner in Waikiki.
+
+**Must Try:** Nikutama Udon, Kake Udon (for picky eaters), Shrimp Tempura
+**Pro tip:** Located at 2310 Kuhio Ave, open daily 10 AM to 10 PM. Go before 6 PM to beat the peak line — call (808) 931-6000 with questions.
+
+## 3. Zippy's — The Every-Generation Answer (Island-wide)
+
+Ask any local parent where they eat with kids and Zippy's comes up within seconds. Hawaii's beloved diner chain is the island's family safety net: most locations are open 24 hours, the menu runs from chili rice to Korean chicken to spaghetti, and every generation — from tutu to toddler — finds something they love.
+
+The Zip Pac bento is the crowd-pleaser: teri beef, fried chicken, fish, and spam over rice, basically a greatest-hits plate that works for adventurous and cautious eaters alike. The chili over rice is the local classic, the saimin is the perfect mild noodle soup for small kids, and the fried chicken is genuinely great. High chairs, fast service, and zero pretension come standard.
+
+Do not leave without a coco puff from the attached Napoleon Bakery — a cream puff filled with chocolate custard under chantilly frosting that has ended countless family dinners on a high note. Buy a box for the condo; they make an excellent bribe for tomorrow's beach cleanup.
+
+**Must Try:** Zip Pac, Chili Rice, Saimin, Coco Puff
+**Pro tip:** Multiple locations across Oahu, most open 24 hours — the Kapahulu and Makiki locations are closest to Waikiki. Call (808) 973-0880 for the nearest branch.
+
+## 4. Rainbow Drive-In — Picnic Table Classics (Kapahulu)
+
+Five minutes from the Waikiki strip sits the plate lunch spot locals have loved since 1961 — and it's secretly one of the most family-friendly meals in town. Rainbow Drive-In is counter service with outdoor picnic tables, which means kids can be kids, spills don't matter, and nobody's shushing anyone.
+
+The mix plate — BBQ beef, mahi mahi, and boneless chicken under brown gravy with two scoops of rice and mac salad — feeds two hungry people for about $12, so sharing is built into the format. The loco moco (hamburger patty, fried egg, gravy over rice) is kid catnip, and the chili rice wins over even the pickiest eaters. Everything is familiar comfort food with a Hawaiian accent.
+
+The location is a bonus: it's a short walk from the Honolulu Zoo and Kapiolani Park, making it the natural lunch stop after a morning with the animals. Gravy, sunshine, and no dress code — family dining at its finest.
+
+**Must Try:** Mix Plate, Loco Moco, Chili Rice
+**Pro tip:** Find them at 3308 Kanaina Ave, open Monday through Saturday 7 AM to 9 PM, closed Sundays. Call (808) 737-0177 for takeout.
+
+## 5. Giovanni's Shrimp Truck — The Famous One (North Shore)
+
+A meal at a graffiti-covered truck on the side of Kamehameha Highway might not sound like family dining — until you watch your kids demolish a plate of garlic shrimp with their hands at a picnic table. Giovanni's is the original North Shore shrimp truck, and the signature garlic shrimp scampi — buttery, garlicky, with two scoops of rice — is a rite of passage for every Oahu visitor.
+
+The format is pure kid-friendly magic: order at the window, eat outdoors at picnic tables, and let the little ones sign their names on the truck (everyone does — it's covered in decades of marker art). No reservations, no table manners required, just shrimp, sunshine, and plenty of napkins.
+
+Fair warning to parents: the garlic shrimp is not mild. The lemon butter shrimp is the gentler option for sensitive palates, and the hot and spicy version is strictly for the brave. Grab extra rice — the buttery sauce soaked into it might be the best part.
+
+**Must Try:** Garlic Shrimp Scampi, Lemon Butter Shrimp, Hot & Spicy Shrimp (brave kids only)
+**Pro tip:** Located at 66-472 Kamehameha Hwy in Haleiwa, open daily 10:30 AM to 6:30 PM. Bring cash and wipes — call (808) 293-1839 with questions.
+
+## 6. Kono's Northshore — Breakfast Before the Beach (Haleiwa)
+
+The best family mornings on the North Shore start at Kono's, a Haleiwa institution since 2002 built on 12-hour slow-roasted kalua pig. The breakfast bomber — a burrito stuffed with eggs, breakfast potatoes, cheese, and that famous kalua pig — is the size of a small child and costs about $10 to $12. One feeds a parent and a kid, easy.
+
+The kalua pig itself is the star: roasted until it collapses into smoky, tender shreds, then piled into bombers, sandwiches, and plates. The kalua pig sandwich on a toasted bun is the perfect handheld beach meal, and the plain rice plates work beautifully for younger kids who want something simple.
+
+Order at the counter, grab a seat, and fuel up before hitting the beach or the Haleiwa shops. It's fast, it's filling, and it's exactly the kind of place where a sandy, sun-screened family fits right in.
+
+**Must Try:** Breakfast Bomber, Kalua Pig Sandwich, Kalua Pig Plate
+**Pro tip:** Find them at 66-250 Kamehameha Hwy in Haleiwa, open daily 7 AM to 7 PM. Lines move fast even at peak breakfast — call (808) 744-6705 with questions.
+
+## 7. Farm to Barn — Lawn Games and Picnic Tables (Haleiwa)
+
+If you're looking for the single most family-friendly restaurant on Oahu, Farm to Barn might be it. This charming red barn cafe in the heart of Haleiwa serves fresh, local, plant-forward food — and the backyard-style outdoor seating comes with picnic tables, lawn games, and a relaxed country atmosphere where kids can actually move around between bites.
+
+The menu keeps everyone happy: barn burritos and grain bowls for the health-minded, uala (sweet potato) waffles that kids devour, and fresh-pressed juices and smoothies from the attached juicery that beat any resort drink. Portions are generous, prices are gentle, and everything tastes like it came from the farm next door — because much of it did.
+
+This is the reset button in the middle of a North Shore day: let the kids burn energy on the lawn while the adults finish their coffee in actual peace. On an island full of great food, that combination is rare.
+
+**Must Try:** Barn Burrito, Uala Waffles, Fresh-Pressed Juice
+**Pro tip:** Located at 66-443 Kamehameha Hwy in Haleiwa, open daily 7 AM to 4 PM. Mornings are calmest — call (808) 744-4100 with questions.
+
+## 8. Seven Brothers — Burgers by the Beach (Haleiwa)
+
+Seven brothers walk into the burger business — and turn it into a North Shore legend. This family-owned spot started at the Kahuku Sugar Mill in 2009 and has been flipping oversized, juicy burgers ever since. It's the kind of place where kids can be loud, families can linger, and nobody leaves hungry.
+
+The Original Burger is the foundation: a big, beefy patty with all the fixings. The coconut macadamia shrimp burger is the one that sounds like a dare and tastes like a revelation — sweet coconut shrimp stacked on a beef patty with house sauce. And whatever you do, order the coconut chocolate chip banana bread for the table; it's legendary in its own right and doubles as dessert.
+
+The vibe is pure surf-town casual: counter order, simple seating, surf videos on the TV. Closed Sundays, so plan your burger run for Monday through Saturday — your kids will ask to come back, and you'll say yes.
+
+**Must Try:** The Original Burger, Coconut Macadamia Shrimp Burger, Coconut Chocolate Chip Banana Bread
+**Pro tip:** Find them at 66-197 Kamehameha Hwy in Haleiwa, open Monday through Saturday 11 AM to 9 PM, closed Sundays. Call (808) 744-3000 with questions.
+
+## 9. Matsumoto Shave Ice — The Mandatory Dessert Stop (Haleiwa)
+
+There is no more reliable way to end a family beach day than a rainbow-striped shave ice from Matsumoto. This Haleiwa institution has been the definitive North Shore treat since 1951 — and at about $4 to $6 each, it's the cheapest way to be the hero of the family vacation.
+
+The ice is shaved so fine it absorbs the syrup like fresh snow — nothing like the crunchy snow cones back home. House-made syrups come in every flavor kids gravitate toward (strawberry, blue Hawaii, rainbow) plus tropical standouts like lilikoi and mango for the adults. Order it local-style with vanilla ice cream at the bottom and a condensed milk snow cap on top.
+
+The line often wraps around the block, but it moves fast — and honestly, the anticipation is part of the memory. Grab your shave ice and wander the Haleiwa shops while it slowly disappears. This is the photo your kids will remember.
+
+**Must Try:** Rainbow Shave Ice, Lilikoi Shave Ice, Matsumoto Special (with ice cream + snow cap)
+**Pro tip:** Located at 66-111 Kamehameha Hwy in Haleiwa, open daily 9 AM to 6 PM. Go before 10 AM or after 4 PM to skip the longest lines — call (808) 637-4827 for info.
+
+## 10. Waiahole Poi Factory — A Real Hawaiian Lunch (Windward Coast)
+
+For families who want more than burgers and shave ice, this is the adventure stop. Waiahole Poi Factory is a working poi factory in a 1905 wooden building on the Windward Coast, serving the most authentic Hawaiian plate lunches on this side of the island — order at the window, grab a picnic table, and eat like Hawaii actually eats.
+
+The Hoe family has run this roadside institution for decades, steaming laulau (pork and fish wrapped in taro leaves) and slow-smoking kalua pig with ingredients raised right in the valley. The Kanaka Nui plate is the feast: laulau, kalua pig, lomi salmon, and hand-pounded poi made on-site. Yes, let the kids try poi — the face they make is half the fun, and the slightly sweet, pudding-like taste wins over more of them than you'd expect.
+
+The setting is part of the lesson: a historic wooden building at the mouth of lush Waiahole Valley, misty mountains overhead, and food with a direct line to the land around you. It's a meal and a cultural experience in one stop — the kind of thing kids remember long after the vacation ends.
+
+**Must Try:** Kanaka Nui Plate, Laulau, Kalua Pig, Hand-Pounded Poi
+**Pro tip:** Find them at 48-140 Kamehameha Hwy in Kaneohe, open Wednesday through Monday 10 AM to 6 PM, closed Tuesdays. Call (808) 239-2222 with questions.
+
+## Family Dining Tips for Oahu
+
+- **Eat early.** Hawaii dines early — 5 to 6 PM dinners mean shorter waits, happier kids, and sunset views at the beachfront spots.
+- **Share the big plates.** Plate lunches and North Shore portions are enormous; two kids can easily split one mix plate or breakfast bomber.
+- **Bring cash and wipes.** Trucks and counters like Giovanni's prefer cash, and outdoor picnic-table meals mean sticky hands.
+- **Pack the shave ice for last.** Dessert stops like Matsumoto work best as the reward at the end of a North Shore day, not the start.
+- **Skip reservations where you can.** Every spot on this list except Duke's is walk-in casual — the flexibility is priceless with kids in tow.
+- **Make one meal an adventure.** A stop like Waiahole Poi Factory turns lunch into a story the kids will tell at school.
+
+Oahu feeds families the way it feeds everyone else: generously, casually, and with a view. Work through this list and you'll come home with full bellies, sticky fingers, and the kind of vacation memories that don't need a filter.`,
+},
 ];
 
 
