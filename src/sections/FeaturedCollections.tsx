@@ -8,9 +8,9 @@ gsap.registerPlugin(ScrollTrigger);
 const collections = [
   { name: 'Beachfront Dining', count: 7, slug: 'beachfront', image: '/images/collection-beachfront.jpg' },
   { name: 'Hidden Gems', count: 19, slug: 'hidden-gems', image: '/images/collection-hidden.jpg' },
-  { name: 'Plate Lunch Legends', count: 4, slug: 'plate-lunch', image: '/images/collection-plate.jpg' },
+  { name: 'Plate Lunch Legends', count: 5, slug: 'plate-lunch', image: '/images/collection-plate.jpg' },
   { name: 'Sunset Happy Hours', count: 3, slug: 'happy-hours', image: '/images/collection-sunset.jpg' },
-  { name: 'Japanese', count: 4, slug: 'japanese', image: '/images/hero-card-2.jpg' },
+  { name: 'Japanese', count: 5, slug: 'japanese', image: '/images/hero-card-2.jpg' },
   { name: 'Fine Dining', count: 3, slug: 'fine-dining', image: '/images/hero-card-6.jpg' },
 ];
 

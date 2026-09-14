@@ -1,8 +1,8 @@
 # Ono Oahu — Monthly Maintenance Report
 
-**Run date:** 2026-09-07 08:00 HST (seventh consecutive daily run — first run on the fixed codebase `0afd62a`; all checks re-verified post-deploy)
-**Repo state at start:** `0afd62a` — Fix maintenance issues: remove 4 orphan images, code-split main bundle (pulled `origin/main`, already up to date)
-**Data snapshot:** 47 real restaurants (+ 2 `-hh` variants: `monkeypod-waikiki-hh`, `earls-waikiki-hh`), 9 collections, 6 neighborhoods, 9 blog posts, 96 files in `public/images/` (~13.3 MB after orphan cleanup)
+**Run date:** 2026-09-13 08:00 HST (eighth consecutive daily run — first run since the new `best-cheap-eats-oahu` post shipped)
+**Repo state at start:** `d9a163e` — Add 10 Best Cheap Eats on Oahu Under $15 blog post with hero image and Pinterest pins (pulled `origin/main`, already up to date)
+**Data snapshot:** 47 real restaurants (+ 2 `-hh` variants), 9 collections, 6 neighborhoods, **10 blog posts**, 101 files in `public/images/` (~14.3 MB)
 
 ---
 
@@ -108,3 +108,4 @@
 | 2026-09-06 08:00 | `b08ee2e` (unchanged) | Full re-run: all 5 checks pass; new live samples (haleiwa-beach-house dedicated, westman-cafe-bar) all 200; sitemap re-diffed identical; fresh build clean, 9/9 slugs in bundle; no fixes needed; no deploy |
 | 2026-09-07 04:52 | `0afd62a` | **Fixes applied** (first 2 issues): deleted 4 orphan images (~4.5 MB freed — `dukes-waikiki-new.png`, `earls-happyhour-new.png`, `westman-cafe-food.jpg`, `westman-cafe-mirror.jpg`); code-split bundle via route-level `React.lazy` + `manualChunks` (main chunk 586 KB → 387 KB, vendor-react 48 KB + vendor-gsap 70 KB split out, below 500 KB warning). Fresh build clean (0 TS errors); browser-verified home/blog/restaurant lazy routes render; committed `0afd62a`, pushed, deployed to Vercel production (`dpl_5N2upzTd2q1E7msPfNQNXNSh4msb` READY); live checks: `/` 200 serving new bundle, deleted orphan 404, live images 200 |
 | 2026-09-07 08:00 | `0afd62a` (pulled, up to date) | Full re-run on fixed codebase: CHECK 1 ✅ (78 URLs, 0 dupes, 0 missing/stale), CHECK 2 ✅ (all counts/categories/images), CHECK 3 ✅ (**0 true orphans, 0 files >1MB** — cleanup verified), CHECK 4 ✅ (fresh build clean, 9/9 slugs across chunks, no >500KB warning), CHECK 5 ✅ (6/6 200s; live serves code-split bundle `index-CLeor45i.js` matching local build hash; sitemap byte-identical). No new fixes needed; nothing to commit/deploy. |
+| 2026-09-13 08:00 | `d9a163e` (new: `best-cheap-eats-oahu` post + 5 images) | Full re-run: CHECK 1 ✅ (79 URLs — new blog entry present, 0 dupes/stale), CHECK 2 ✅ (10 blogs, all counts/images), CHECK 3 ✅ (101 images, 0 true orphans, 0 >1MB; 5 new cheap-eats images visually inspected — no watermark), CHECK 4 ✅ (clean build, **10/10 slugs** across chunks, entry 401.8 KB — still no warning), CHECK 5 ✅ (6/6 200s incl. new hero `blog-cheap-eats.jpg` live; sitemap byte-identical). No fixes needed; no commit/deploy. Note: this report file is now tracked in git (swept up by `d9a163e`). |
