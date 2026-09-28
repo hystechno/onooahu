@@ -1984,6 +1984,140 @@ Don't skip the Napoleon Bakery attached to most locations: the coco puff, a crea
 
 The plate lunch isn't a trend — it's Hawaii's everyday feast, perfected over generations at windows, trucks, and counters like these. Start with the mix plate at Rainbow, end with a Zip Pac at 2 AM, and you'll understand local food culture better than most visitors ever will.`,
 },
+{
+  slug: 'most-romantic-restaurants-oahu',
+  title: 'The 10 Most Romantic Restaurants on Oahu (Date Night Guide)',
+  category: 'Food',
+  date: 'September 28, 2026',
+  excerpt: 'From sunset hula under a century-old kiawe tree to a 10-seat omakase counter and dinners inside a botanical garden, these are the 10 most romantic restaurants on Oahu — the definitive date night guide.',
+  image: '/images/blog-date-night.jpg',
+  content: `Romance on Oahu doesn't need much help. The island hands you pastel sunsets, warm trade winds, and the sound of waves within reach of nearly every table — but the right restaurant turns a nice evening into the night you talk about for years. The wrong one means a laminated menu under fluorescent lights while a tour bus idles outside. Choose wisely.
+
+So where are the most romantic restaurants on Oahu? The short answer: House Without a Key for sunset hula under a century-old kiawe tree, Sushi Sho for a once-in-a-lifetime 10-seat omakase, and Haleiwa Joe's Haiku Gardens for dinner inside an actual botanical garden. Add harbor sunsets at Merriman's, a James Beard date night at MW, and a candlelit Chinatown showstopper at Fete, and you have a date night for every style and budget.
+
+This guide is organized roughly from Waikiki outward — through Kaka'ako, Chinatown, and Kaimuki, then over the mountains to Kailua, Kaneohe, and the North Shore. Every pick includes what to order, when to book, and the one move that makes the evening land. One universal rule before we start: sunset is the most coveted reservation slot on the island, so book early and request outdoor or window seating wherever it exists.
+
+## 1. House Without a Key — Sunset Hula Under the Kiawe Tree (Waikiki)
+
+The most romantic table in Waikiki has been holding its title for decades, and it isn't close. House Without a Key spreads out under a century-old kiawe tree on the Halekulani's oceanfront lawn, where live Hawaiian music and hula dancing unfold every evening as the sun drops behind Diamond Head. If you have one date night in Waikiki, this is the default answer.
+
+The move is the sunset seating: arrive while the sky is still gold, order a pina colada or a cocktail from the historic bar, and let the evening happen around you. The lobster roll is the menu's quiet luxury, and the coconut cake — tall, snowy, and old-Hawaii perfect — is the shared dessert that ends the night properly. Nothing here is rushed; the whole operation is engineered for lingering.
+
+This is old-money Hawaii elegance without the stuffiness: barefoot-adjacent dress codes, ocean air, and a hula dancer silhouetted against the last light. It is, quite simply, the standard against which every other romantic dinner on the island gets measured.
+
+**Must Try:** Lobster Roll, Pina Colada, Coconut Cake
+**Pro tip:** Find them at 2199 Kalia Rd inside the Halekulani, open daily 7 AM to 10 PM. Book the sunset slot well in advance and request outdoor seating — call (808) 923-2311.
+
+## 2. Sushi Sho — The 10-Seat Omakase (Waikiki)
+
+Some date nights are about the view. This one is about the two of you and ten seats at the most exclusive counter in Hawaii. Sushi Sho, tucked inside the Ritz-Carlton Residences Waikiki, is Chef Keiji Nakazawa's intimate omakase — traditional Edomae technique applied to Hawaiian ingredients, served piece by piece across an evening that feels more like a private performance than a dinner.
+
+The theater is the point: aged tuna brushed with Waianae sea salt, locally caught snapper over rice seasoned with red vinegar, each course placed in front of you moments after it's shaped. There's no menu to debate and no distractions — just the two of you, the chef's hands, and a parade of bites you'll be describing to friends for months. For a milestone anniversary or a proposal-adjacent evening, nothing else on the island operates at this level.
+
+This is the most expensive entry on the list and the hardest reservation to land — seats open months in advance and disappear fast. Plan the date around the reservation, not the other way around, and consider it an experience rather than a meal.
+
+**Must Try:** Omakase Menu, Aged Maguro, Hawaiian Snapper
+**Pro tip:** Located at 383 Kalaimoku St, dinner seatings Tuesday through Saturday, reservations required far in advance. Call (808) 922-0011 — and book before you book your flights.
+
+## 3. Merriman's Honolulu — Harbor Sunsets, Farm to Table (Kaka'ako)
+
+Peter Merriman basically invented Hawaii Regional Cuisine, and his Ward Village flagship turns that legacy into one of the city's great date nights. The dining room faces the harbor, the tables catch the sunset over the water, and over 90 percent of the ingredients come from Hawaii farms and fisheries — which means the menu reads like a love letter to the island you're sitting on.
+
+The macadamia nut-crusted mahi mahi is the signature for a reason: buttery, crisp-edged, and unmistakably Hawaiian. The Kahuku shrimp and Kona lobster round out a menu built for sharing and savoring slowly. Cocktails lean on local fruit, the wine list is serious, and the pacing is unhurried in the way special evenings require.
+
+Ask for a window or lanai table at sunset and you've essentially outsourced the romance to professionals. It's polished without being stiff — the kind of place where anniversaries and first dates both feel at home.
+
+**Must Try:** Macadamia Nut Crusted Mahi, Kahuku Shrimp, Kona Lobster
+**Pro tip:** Find them at 1108 Auahi St in Ward Village, open daily 4:30 PM to 9 PM. Request a harbor-view table when booking — call (808) 518-8100.
+
+## 4. MW Restaurant — The James Beard Date Night (Kaka'ako)
+
+When local couples celebrate something big, MW is the name that comes up in whispers. James Beard Award-winning chefs Michelle Karr-Ueoka and Wade Ueoka run this refined Kaka'ako dining room like a two-person argument for Hawaii's place on the national culinary stage — every dish elevates a local ingredient through technique you can taste.
+
+The miso butterfish is the dish regulars steer you toward: silky, caramelized, and deeply savory. The Korean fried chicken is the cult favorite that proves fine dining can still be fun, and whatever you do, save room for dessert — Michelle's Hawaiian chocolate creations are the stuff of legend and the most romantic possible ending. Sharing a dessert here is practically a local courtship ritual.
+
+The room is elegant but warm, the service choreography is flawless, and the whole evening hums along at a pitch that makes conversation easy. For a celebration dinner that feels genuinely Hawaiian rather than generically fancy, this is the pick.
+
+**Must Try:** Miso Butterfish, Korean Fried Chicken, Hawaiian Chocolate Dessert
+**Pro tip:** Located at 1538 Kapiolani Blvd, open Tuesday through Saturday 5 PM to 9 PM. Book ahead for weekends — call (808) 955-6505.
+
+## 5. Fete — Chinatown's Candlelit Showstopper (Chinatown)
+
+The most important fine dining room in Honolulu right now hides inside a historic Chinatown building: exposed brick, dim lighting, and an open kitchen that fills the space with energy and the smell of something wonderful. Fete is Chef Robynne Mai'i's deeply personal restaurant — she's a James Beard Award winner — and a table here says you did your homework.
+
+The menu is inventive and locally driven, built around whatever Hawaii's farms are producing right now. The housemade pasta is a quiet flex, the fresh catch changes with the market, and the tasting menu is the full-commitment move for couples who want the kitchen to tell the whole story. Each plate arrives looking like it was styled for a magazine and tasting like it was cooked for family.
+
+After dinner, the date extends itself: Chinatown's bar scene is a short stroll in any direction, so the evening gets a built-in second act. Dinner at Fete plus a nightcap on Hotel Street is the best urban date night on Oahu, full stop.
+
+**Must Try:** Tasting Menu, Fresh Catch, Housemade Pasta
+**Pro tip:** Find them at 2 N Hotel St, dinner service Wednesday through Saturday. Reservations are essential — call (808) 369-1390.
+
+## 6. Mud Hen Water — Hyper-Local and Low-Key Cool (Kaimuki)
+
+Not every romantic dinner needs white tablecloths. Mud Hen Water is the date night for couples whose love language is a great cocktail and a plate of something they've never tried before. Chef Ed Kenney — one of the pioneers of Hawaii Regional Cuisine — runs this Kaimuki gem as his most personal project, and the menu changes with whatever local farms deliver that week.
+
+One visit might bring breadfruit gnocchi; the next, grilled akule or a farm vegetable preparation that makes you reconsider what vegetables can do. The cocktail list is built on Hawaiian-grown ingredients too, which makes ordering a round feel like part of the adventure. The room is intimate and neighborhood-warm — the kind of place where you end up talking for an hour after the plates are cleared.
+
+It's also the most relaxed reservation on this list: genuinely special food without the special-occasion price tag or dress code. For a Tuesday-night date that still feels like an occasion, Mud Hen Water is the local's answer.
+
+**Must Try:** Breadfruit Gnocchi, Farm Vegetables, Hawaiian Cocktails
+**Pro tip:** Located at 3452 Waialae Ave in Kaimuki, open Tuesday through Saturday 5:30 PM to 9 PM. Street parking in the neighborhood — call (808) 737-7919 with questions.
+
+## 7. Faria — Kailua's Intimate Wine Bar (Kailua)
+
+The newest entry on this list might be its most charming. Faria is a tiny Portuguese-inspired restaurant on Kailua's main drag — small plates, a serious wine list, and an intimate room that Honolulu Magazine named its top new restaurant pick. It feels like a secret you and your date discovered together, which is half the romance.
+
+The tinned fish board is the signature opener: an artful spread of conservas, bread, and accompaniments that turns grazing into an event. The pasteis de nata — warm Portuguese custard tarts with blistered tops — are the dessert you order two of after agreeing to share one. House-cured meats and bacalhau round out a menu made for slow, wine-accompanied exploration.
+
+Combine dinner here with a sunset walk at Kailua Beach ten minutes away and you have the Windward side's perfect date night circuit. Small room, small menu, big impression — book ahead, because a space this intimate fills fast.
+
+**Must Try:** Tinned Fish Board, Pasteis de Nata, Bacalhau
+**Pro tip:** Find them at 306 Kuulei Rd in Kailua, dinner Tuesday through Saturday. The room is tiny — reserve well ahead at (808) 263-3279.
+
+## 8. Haleiwa Joe's Haiku Gardens — Dinner in a Botanical Garden (Kaneohe)
+
+There is no more dramatic setting for a date on Oahu. Haleiwa Joe's Haiku Gardens sits inside an actual botanical garden on the Windward side — an open-air dining room overlooking koi ponds, tropical flowers, and the sheer green wall of the Ko'olau mountains. Couples get engaged here with enough regularity that the staff has a practiced smile for it.
+
+The menu matches the setting with fresh seafood and prime steaks: the fresh catch is the move when the fish is right, and the prime rib has its own devoted following. Arrive before dark to walk the garden paths, then watch the mountains fade into dusk over mai tais as the tiki torches come on. It's cinematic in a way no mainland restaurant can replicate.
+
+Two things to know: reservations are essential and book out weeks in advance, and the drive over the Pali is part of the experience — the views from the highway are a preview of the evening. Make the reservation first and build the whole Windward day around it.
+
+**Must Try:** Fresh Catch, Prime Rib, Mai Tai
+**Pro tip:** Located at 46-336 Haiku Rd in Kaneohe, dinner Monday through Saturday plus Sunday brunch and dinner. Book weeks ahead — call (808) 247-6671.
+
+## 9. Haleiwa Beach House — North Shore Sunset Lanai (Haleiwa)
+
+The North Shore's answer to date night is a two-story oceanfront restaurant where the Pacific does all the decorating. Haleiwa Beach House pairs contemporary Hawaiian seafood with panoramic views, and the upstairs dining room and wraparound lanai at sunset are as romantic as the country side of the island gets.
+
+The macadamia nut-crusted fish is the signature — crisp, buttery, and local to its core — while the Kona lobster tail and grilled monchong give the menu its special-occasion range. Order the Haleiwa Sunset cocktail as the sky performs, and let the waves provide the soundtrack. The downstairs bar is the more casual move if the evening calls for pupus and cocktails instead of a full dinner.
+
+The drive up is part of the date: stop at a beach on the way, watch the surf, then roll into Haleiwa as the light turns golden. Dinner reservations are recommended — sunset lanai tables are the first to go.
+
+**Must Try:** Macadamia Nut-Crusted Fish, Kona Lobster Tail, Haleiwa Sunset Cocktail
+**Pro tip:** Find them at 62-540 Kamehameha Hwy in Haleiwa, open daily 11 AM to 9 PM, until 10 PM Friday and Saturday. Request the upstairs lanai at sunset — call (808) 637-9898.
+
+## 10. Monkeypod Kitchen — Oceanfront Mai Tais and Live Music (Waikiki)
+
+For couples who want romance with a little more energy, Monkeypod Kitchen threads the needle perfectly. Chef Peter Merriman's Waikiki outpost sits right on the waterfront at the Outrigger Reef, with an oceanfront patio, unobstructed Diamond Head views, and live local music daily — lively enough to feel like a night out, beautiful enough to count as romance.
+
+The Monkeypod Mai Tai is the legend: a properly strong local rum cocktail crowned with honey-lilikoi foam that has launched a thousand vacation photos. The macadamia nut-crusted fish is the menu's signature, and the banana cream pie is the shareable finale. Farm-fresh ingredients keep everything a cut above the beachfront competition.
+
+The move here is timing: book a patio table for golden hour, order mai tais as the musicians set up, and let the evening stretch from sunset into the torch-lit night. It's the rare spot that works equally well for a first date and a fifteenth anniversary.
+
+**Must Try:** Monkeypod Mai Tai, Macadamia Nut Crusted Fish, Banana Cream Pie
+**Pro tip:** Located at 2169 Kalia Rd, Unit 111 at the Outrigger Reef, open daily 7 AM to 11 PM. Reserve a patio table for sunset — call (808) 900-4226.
+
+## Date Night Tips for Oahu
+
+- **Book the sunset slot.** The most romantic reservation on the island is whichever table catches golden hour — check sunset times for your dates and book 30 to 60 minutes before.
+- **Reserve far ahead for the big three.** Sushi Sho books out months in advance, Haleiwa Joe's weeks, and House Without a Key's sunset tables go fast — make these your first reservations, not your last.
+- **Request the right table.** Outdoor lanai at Haleiwa Beach House, patio at Monkeypod, window at Merriman's — a one-line request when booking changes the whole evening.
+- **Mention the occasion.** Anniversaries and celebrations often get acknowledged with a little extra care — tell the restaurant when you reserve.
+- **Dress island-smart.** Nowhere on this list requires a jacket, but aloha shirts and sundresses beat beachwear at the fine dining spots. Sushi Sho and MW skew dressiest.
+- **Build the evening around dinner.** Chinatown bars after Fete, a Kailua Beach walk before Faria, the Pali drive to Haleiwa Joe's — the best date nights have a second act.
+
+Oahu's most romantic restaurants share one secret: the island does the heavy lifting, and the best rooms simply frame it. Pick the vibe that fits the two of you, book the sunset, and let Hawaii handle the rest.`,
+},
 ];
 
 
