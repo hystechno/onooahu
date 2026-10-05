@@ -2193,6 +2193,140 @@ The move here is timing: book a patio table for golden hour, order mai tais as t
 
 Oahu's most romantic restaurants share one secret: the island does the heavy lifting, and the best rooms simply frame it. Pick the vibe that fits the two of you, book the sunset, and let Hawaii handle the rest.`,
 },
+{
+  slug: 'kaimuki-food-guide',
+  title: 'Where to Eat in Kaimuki: 10 Essential Spots on Oahu\'s Best Food Strip',
+  category: 'Food',
+  date: 'October 5, 2026',
+  excerpt: 'Skip the Waikiki crowds and eat where Honolulu actually eats — from celebrity-chef brunch to French-Japanese prix fixe, this is the ultimate Kaimuki and Kapahulu food guide, strip by strip.',
+  image: '/images/blog-kaimuki.jpg',
+  content: `Ask a Honolulu local where they eat on a random Tuesday and almost nobody says Waikiki. They say Kaimuki — the unpretentious neighborhood on the inland slope of Diamond Head where 12th Avenue and Waialae Avenue have quietly become the most exciting food corridor on Oahu. No resort markups, no valet lines, just generation-spanning bakeries, poke counters, and chef-driven dining rooms packed with people who live here.
+
+So where should you eat in Kaimuki? The short answer: Koko Head Cafe for the island's best brunch, Mud Hen Water and Miro Kaimuki for chef-driven dinners on Waialae Avenue, and Hale Vietnam for a legendary bowl of pho. Then walk the adjacent Kapahulu strip for Rainbow Drive-In's plate lunches, Ono Seafood's poke, Leonard's malasadas, Waiola's shave ice, and the late-night pork chops at Side Street Inn.
+
+This guide covers the two strips as one food crawl, because that's how locals treat them — Kaimuki's 12th Avenue and Waialae Avenue first, then Kapahulu Avenue rolling down toward the zoo. Everything below sits within a five-minute drive of everything else, ten minutes from Waikiki, and most of it is walkable once you park. Bring cash, bring an appetite, and prepare to eat like a resident instead of a visitor.
+
+## 1. Koko Head Cafe — The Brunch Worth the Wait (Kaimuki)
+
+The toughest breakfast table in Honolulu isn't in a hotel — it's a corner diner space on 12th Avenue where Chef Lee Anne Wong serves brunch with a local twist. Koko Head Cafe is the anchor of Kaimuki's food scene, the place that made the neighborhood a destination, and the weekend wait out the door is the proof.
+
+The Dumplings All Day Wong are the signature: crispy-bottomed pork dumplings in a spicy black vinegar sauce that regulars order before they sit down. The cornflake French toast is the cult favorite — shatteringly crisp outside, custardy inside — and the kimchi fried rice proves that breakfast rice is a food group. Everything lands between familiar and inventive, which is exactly why the line forms.
+
+Two things to know: they don't take reservations for brunch, and they're closed Tuesdays. Arrive before 8 AM or embrace the wait with a coffee — the neighborhood makes it easy to linger.
+
+**Must Try:** Dumplings All Day Wong, Cornflake French Toast, Kimchi Fried Rice
+**Pro tip:** Find them at 1145C 12th Ave, open Wednesday through Monday 7 AM to 2 PM, closed Tuesdays. No reservations for brunch — call (808) 732-8920 with questions.
+
+## 2. Miro Kaimuki — The Neighborhood's Celebration Table (Kaimuki)
+
+The hottest reservation on Waialae Avenue is Chef Chris Kajioka's French-Japanese restaurant, tucked into the beloved old Cafe Miro space. Miro Kaimuki is where Honolulu celebrates — monthly prix fixe menus that change with the seasons, served in a room that manages to feel warm rather than stuffy.
+
+The ahi and uni brioche toasts are the order everyone photographs first: buttery bread topped with pristine local ahi, Hokkaido uni, or caviar. The escargots with fluffy milk bread are the add-on regulars never skip, and the cocktails are serious enough to justify arriving early for a seat at the bar. It's fine dining that still feels like a neighborhood secret.
+
+Dinner runs in two seatings, 5 PM and 7:30 PM, and tables are guarded fiercely by Kaimuki locals — book ahead or plan your celebration around whatever's available. Closed Mondays.
+
+**Must Try:** Ahi & Uni Brioche, Escargots with Milk Bread, Monthly Tasting Menu
+**Pro tip:** Located at 3446 Waialae Ave, dinner seatings Tuesday through Sunday at 5 PM and 7:30 PM, closed Mondays. Reserve well in advance — call (808) 379-0124.
+
+## 3. Mud Hen Water — Hyper-Local and Proud of It (Kaimuki)
+
+Right across the street from Miro, Chef Ed Kenney — one of the pioneers of Hawaii Regional Cuisine — runs his most personal restaurant. Mud Hen Water builds its menu around whatever local farms deliver that week, which means regulars check the board like a horoscope: breadfruit gnocchi one visit, grilled akule the next.
+
+The cocktails deserve their own pilgrimage — built on Hawaiian-grown ingredients you won't find in any mainland bar program — and the farm vegetable plates have converted more vegetable skeptics than any health kick ever could. The room is intimate and neighborhood-warm, full of people who clearly eat here weekly.
+
+This is the most relaxed of Kaimuki's chef-driven dinners: genuinely special food without the special-occasion price tag or dress code. For a Tuesday date night that still feels like an occasion, it's the local's answer.
+
+**Must Try:** Breadfruit Gnocchi, Farm Vegetables, Hawaiian Cocktails
+**Pro tip:** Find them at 3452 Waialae Ave, open Tuesday through Saturday 5:30 PM to 9 PM. Street parking in the neighborhood — call (808) 737-7919 with questions.
+
+## 4. Hale Vietnam — The Pho That Built a Following (Kaimuki)
+
+Long before Kaimuki was trendy, Hale Vietnam was packing its dining room on 12th Avenue with neighborhood regulars. The draw is the broth: rich, aromatic, and consistently praised as some of the best pho in town, served in bowls the size of small bathtubs.
+
+The Pho Dac Biet is the full-tilt order — rare beef, brisket, tendon, and tripe in that famous broth — and the imperial rolls arrive shatteringly crisp, begging to be wrapped in lettuce and herbs. The BBQ pork vermicelli is the move for non-soup days. Fair warning from the regulars: the large pho is genuinely enormous, and the air conditioning runs arctic — bring a light layer even in summer.
+
+It's family-run, fast, and priced like it never got the memo about neighborhood gentrification. Lunch here, then walk off the bowl down 12th Avenue — that's the Kaimuki rhythm.
+
+**Must Try:** Pho Dac Biet, Imperial Rolls, BBQ Pork Vermicelli
+**Pro tip:** Located at 1140 12th Ave, open Tuesday through Sunday 10 AM to 9:45 PM, closed Mondays. Call (808) 735-7581 for takeout.
+
+## 5. Rainbow Drive-In — The Plate Lunch Blueprint (Kapahulu)
+
+Where Kaimuki meets Kapahulu, the plate lunch was perfected. Rainbow Drive-In has been slinging two scoops rice, one scoop mac salad, and gravy-smothered protein from this corner since 1961 — and at roughly $10 to $14 a plate, it remains the best cheap lunch within ten minutes of Waikiki.
+
+The mix plate is the canon: BBQ beef, mahi mahi, and boneless chicken under rich brown gravy. The loco moco — hamburger patty, fried egg, gravy over rice — is the textbook version of Hawaii's comfort food, and the chili rice is the cult order locals debate passionately. Order at the window, grab a picnic table, and watch the neighborhood roll by.
+
+The parking lot is free, which in this part of town qualifies as a minor miracle. Go before noon on weekdays to beat the rush — and don't wear white.
+
+**Must Try:** Mix Plate, Loco Moco, Chili Rice
+**Pro tip:** Find them at 3308 Kanaina Ave, open Monday through Saturday 7 AM to 9 PM, closed Sundays. Call (808) 737-0177 for takeout and skip the window line.
+
+## 6. Ono Seafood — The Poke Counter Locals Guard (Kapahulu)
+
+A tiny takeout counter on Kapahulu Avenue serves what many locals consider the best poke on Oahu — full stop. Ono Seafood is a family operation that prepares everything fresh daily from recipes that haven't needed changing, and the mid-afternoon sellouts tell you everything about the quality.
+
+The shoyu ahi is the purist's order: clean, sesame-flecked, and all about the fish. The spicy ahi brings creamy heat without burying the ahi, and the aku poke — skipjack tuna, stronger and more traditional — is the insider move that separates regulars from tourists. Get it over rice, take it to the beach, and understand why poke became a global obsession.
+
+There's no seating and no negotiating on freshness: when the day's fish is gone, it's gone. Arrive before 2 PM to be safe, and bring cash just in case.
+
+**Must Try:** Shoyu Ahi, Spicy Ahi, Aku Poke
+**Pro tip:** Located at 747 Kapahulu Ave, open Monday through Saturday 9 AM to 6 PM. Sells out by mid-afternoon — call (808) 732-4806 to check what's left.
+
+## 7. Fresh Catch — Twenty Kinds of Poke, One Counter (Kapahulu)
+
+If Ono Seafood is the purist's poke counter, Fresh Catch is the maximalist's. Chef Reno Henriques' Kapahulu spot makes twenty-plus varieties of poke fresh daily, alongside a menu of seafood plates with cult followings of their own.
+
+The famous keawe-smoked meat with onions is the dish that confuses first-timers and converts them instantly — smoky, savory, and completely addictive over rice. The ahi katsu and the crab-stuffed ahi roll are the other legends, and regulars know to grab the quirky Dorito green salad on the side. A poke bowl here plus that salad is the order we'd hand to a friend with one lunch in the neighborhood.
+
+It's takeout-focused, cash-friendly, and closed Mondays — plan accordingly. The Kapahulu location puts it a three-minute walk from Leonard's, which is a dangerous and wonderful thing.
+
+**Must Try:** Poke Bowl, Smoked Meat with Onions, Ahi Katsu, Crab Stuffed Ahi Roll
+**Pro tip:** Find them at 1113 Kapahulu Ave, open Tuesday through Saturday 10 AM to 6 PM, Sunday 10 AM to 4 PM, closed Mondays. Call (808) 737-9633 with questions.
+
+## 8. Leonard's Bakery — The Malasada Institution (Kapahulu)
+
+The most famous bakery in Hawaii has been frying malasadas — Portuguese sugar-dusted donuts — on Kapahulu Avenue since 1952, and the line out the door every morning is a landmark in itself. At roughly two dollars each, a hot malasada remains the best dollar-to-delight ratio on the island.
+
+The original is perfect in its simplicity: fluffy, eggy dough fried golden and rolled in sugar while still warm enough to tingle your fingertips. The li hing malasada dusted with tangy plum powder is the uniquely Hawaiian twist, and the filled versions — custard, chocolate, haupia — add a molten center for a small premium. Order more than you think you want; the box empties faster than physics suggests.
+
+The line moves fast and the payoff arrives in a warm white box. Take your malasadas toward Kapiolani Park and eat them with a Diamond Head view — that's the full Kapahulu morning.
+
+**Must Try:** Original Malasada, Li Hing Malasada, Pao Doce
+**Pro tip:** Located at 933 Kapahulu Ave, open daily 5:30 AM to 10 PM. The line is shortest before 8 AM — call (808) 737-5591 for large orders.
+
+## 9. Waiola Shave Ice — The Finest Ice on the Island (Kapahulu)
+
+Ask a local where to get shave ice and the answer splits the island: tourists say Matsumoto, locals say Waiola. This Kapahulu institution shaves its ice so fine it absorbs syrup like fresh snow — no crunchy chunks, no syrupy sludge at the bottom, just a texture mainland snow cones can't approach.
+
+The lilikoi is the tropical standout, the rainbow is the nostalgic classic, and the azuki bean bowl — sweet red beans under that snow-fine ice with condensed milk — is the local-style order that turns a snack into dessert. Add the condensed milk snow cap and you understand why people drive across town for this.
+
+It's cheap, fast, and cash-friendly, with a neighborhood location that keeps the crowds local. This is the dessert stop that separates a Kaimuki food crawl from a Waikiki sugar rush.
+
+**Must Try:** Lilikoi Shave Ice, Rainbow, Azuki Bean Bowl
+**Pro tip:** Find them at 3113 Mokihana St, open daily 9 AM to 6 PM. Mid-afternoon lines move fast — call (808) 735-8886 with questions.
+
+## 10. Side Street Inn — Where the Night Ends (Kapahulu)
+
+Every great food neighborhood needs a place that feeds the people who work in every other restaurant — and on this strip, that's Side Street Inn. When Honolulu's chefs finish their shifts, they come here for pan-fried pork chops and fried rice, which tells you everything about the kitchen.
+
+The pork chops are the legend: thick-cut, perfectly seasoned, and served with a mountain of fried rice built for sharing. The kim chee cuts through the richness, the beer is cold, and everything arrives in portions that assume you brought friends. It's loud, joyful, and the polar opposite of precious.
+
+Open 3 PM to midnight daily, Side Street is the natural final stop of a Kaimuki day — the table where you replay everything you ate while eating one more plate you didn't plan on. That's the strip working exactly as designed.
+
+**Must Try:** Pan-Fried Pork Chops, Fried Rice, Kim Chee
+**Pro tip:** Located at 614 Kapahulu Ave, open daily 3 PM to midnight. Portions are built to share — bring friends and call (808) 739-3939 with questions.
+
+## Kaimuki Food Crawl Tips
+
+- **Park once, walk the strips.** Kaimuki's 12th Ave and Waialae Ave are a five-minute walk apart; Kapahulu is a short drive or long walk downhill. One parking spot covers multiple stops.
+- **Bring cash.** The bakeries, shave ice counters, and poke spots move fastest with small bills — some are cash-preferred.
+- **Time the closures.** Koko Head closes Tuesdays, Hale Vietnam and Miro close Mondays, Fresh Catch closes Mondays — check before you plan a Monday or Tuesday crawl.
+- **Go early for the counters.** Ono Seafood sells out by mid-afternoon, Leonard's line peaks mid-morning, and Koko Head's wait builds after 9 AM.
+- **Book the dinners ahead.** Miro Kaimuki and Mud Hen Water reward reservations — Miro's two seatings fill days to weeks out.
+- **Eat in courses across the strip.** Brunch at Koko Head, poke at Ono, malasadas at Leonard's, shave ice at Waiola, dinner at Mud Hen, nightcap pork chops at Side Street — the ultimate one-day crawl.
+
+Kaimuki doesn't perform for visitors, and that's exactly its charm — this is Honolulu feeding itself, one strip mall and corner counter at a time. Eat your way down these two streets and you'll leave with the city's real flavor, no resort markup required.`,
+},
 ];
 
 
