@@ -2327,6 +2327,140 @@ Open 3 PM to midnight daily, Side Street is the natural final stop of a Kaimuki 
 
 Kaimuki doesn't perform for visitors, and that's exactly its charm — this is Honolulu feeding itself, one strip mall and corner counter at a time. Eat your way down these two streets and you'll leave with the city's real flavor, no resort markup required.`,
 },
+{
+  slug: 'what-to-eat-oahu',
+  title: 'What to Eat on Oahu: 10 Iconic Dishes and Where to Find Them',
+  category: 'Food',
+  date: 'October 12, 2026',
+  excerpt: 'From sugar-dusted malasadas at Leonard\'s to the Hula Pie at Duke\'s, these are the 10 iconic dishes that define eating on Oahu — and exactly where to find each one.',
+  image: '/images/blog-iconic-dishes.jpg',
+  content: `Every island has its greatest hits, but Oahu's iconic dishes are on another level — a century of Hawaiian, Japanese, Portuguese, Chinese, and Filipino cooking collided here and produced foods you simply cannot get anywhere else. Visitors who stick to resort menus miss all of it. This is the checklist locals would hand you if you had one trip to eat everything that matters.
+
+So what should you eat on Oahu? The essential ten: malasadas at Leonard's Bakery, garlic shrimp at Giovanni's Shrimp Truck, Hula Pie at Duke's Waikiki, pipikaula short ribs at Helena's Hawaiian Food, coco puffs at Liliha Bakery, shave ice at Matsumoto, lilikoi pancakes at Moke's, the pho French dip at The Pig and the Lady, a Monkeypod Mai Tai at Monkeypod Kitchen, and chocolate haupia cream pie at Ted's Bakery.
+
+We organized this list roughly in the order a perfect eating day could flow — morning bakery runs first, then lunch legends, then sunset drinks and dessert — but treat it as a bucket list, not a schedule. Each entry answers the only question that matters: what the dish is, why it's famous, and exactly where to get it. Hungry? Good. Let's eat.
+
+## 1. Malasadas at Leonard's Bakery — The Sugar-Dusted Rite of Passage (Kapahulu)
+
+If Oahu had an official welcome snack, it would be a hot malasada from Leonard's Bakery. These Portuguese donuts — fluffy, eggy dough fried golden and rolled in sugar — have been the island's definitive sweet since 1952, and at roughly two dollars each, they might be the best-value bite in Hawaii.
+
+The original is the purest version: crisp sugared shell giving way to a steamy, cloud-soft center that you eat leaning forward so the sugar doesn't dust your shirt. The filled malasadas — custard, chocolate, haupia, doce de leche — add a molten core for a small premium, and the li hing malasada dusted with tangy plum powder is the uniquely Hawaiian twist first-timers should not skip.
+
+The line on Kapahulu Avenue wraps around the block most mornings, but it moves with assembly-line efficiency, and the payoff arrives in a warm white box. Order more than you planned. Everyone does.
+
+**Must Try:** Original Malasada, Li Hing Malasada, Pao Doce
+**Pro tip:** Find them at 933 Kapahulu Ave, open daily 5:30 AM to 10 PM. The line is shortest before 8 AM — call (808) 737-5591 for large orders.
+
+## 2. Garlic Shrimp at Giovanni's Shrimp Truck — The North Shore Legend (Haleiwa)
+
+The North Shore's most famous meal comes off a graffiti-covered white truck parked on Kamehameha Highway. Giovanni's started the entire Hawaiian garlic shrimp phenomenon, and eating a scampi plate at one of its roadside picnic tables is a genuine rite of passage — the kind of meal that ends up in the vacation slideshow.
+
+The garlic shrimp scampi is the signature: a dozen shrimp drowned in a buttery garlic sauce with two scoops of rice to soak up every drop. The hot and spicy version brings real heat, and the lemon butter is the lighter play. Peel, dip, repeat — this is gloriously messy food, and the pile of napkins is part of the ritual.
+
+Plates run about $15 to $17, cash moves faster, and the line at noon looks worse than it is. Grab a marker afterward and sign the truck — decades of visitors already have.
+
+**Must Try:** Garlic Shrimp Scampi, Hot & Spicy Shrimp, Lemon Butter Shrimp
+**Pro tip:** Find the truck at 66-472 Kamehameha Hwy in Haleiwa, open daily 10:30 AM to 6:30 PM. Arrive before noon to beat the tour buses — call (808) 293-1839 with questions.
+
+## 3. Hula Pie at Duke's Waikiki — The Dessert With Its Own Fan Club (Waikiki)
+
+Some dishes are famous. The Hula Pie at Duke's has a fan club, a legacy, and possibly its own gravitational pull. This mountain of macadamia nut ice cream on a chocolate cookie crust, cloaked in chocolate fudge and whipped cream, has been the exclamation point on Waikiki dinners for decades — and it's built for sharing, though nobody will judge you for not.
+
+The setting does half the work: Duke's sits right on the sand at Waikiki Beach, named for surfing legend Duke Kahanamoku, with live Hawaiian music nightly and the Pacific a few barefoot steps away. The move is the barefoot bar at sunset — fish tacos, a mai tai, then the Hula Pie as the sky turns pink.
+
+Fair warning: the pie is enormous, and it does not photograph small. Bring reinforcements, pace yourself, and wear something with a relaxed waistband.
+
+**Must Try:** Hula Pie, Fish Tacos, Mai Tai
+**Pro tip:** Located at 2335 Kalakaua Ave, Suite 116, open daily 7 AM to midnight. Sunset tables go fast — call (808) 922-2268 for reservations.
+
+## 4. Pipikaula Short Ribs at Helena's Hawaiian Food — The James Beard Bite (Kalihi)
+
+The most decorated bite of traditional Hawaiian food in America costs about the same as a fancy coffee drink. Helena's Hawaiian Food earned a James Beard America's Classics award for dishes like the pipikaula short ribs — dried beef that's salted, smoked, and pan-fried into glistening slices of chewy, savory perfection.
+
+This is the dish Native Hawaiian families actually grew up on, and Helena's has made it the same way since 1946. Pair the pipikaula with kalua pig, lomi salmon, and a side of poi for the full traditional spread — a plate that tells the story of the islands better than any museum.
+
+The room is humble — counter service, no frills, cash only — and that's the point. You're eating history here, and history doesn't need tablecloths. Helena's is open Tuesday through Friday only, so plan your Kalihi run accordingly.
+
+**Must Try:** Pipikaula Short Ribs, Kalua Pig, Lomi Salmon
+**Pro tip:** Find them at 1240 N School St, open Tuesday through Friday 10 AM to 7:30 PM. Bring cash and arrive before the lunch rush — call (808) 845-8044 for takeout.
+
+## 5. Coco Puffs at Liliha Bakery — The 24-Hour Obsession (Liliha)
+
+Honolulu's most beloved pastry isn't a donut or a pie — it's the coco puff from Liliha Bakery, a cream puff filled with chocolate pudding and crowned with chantilly frosting that locals buy by the dozen. The bakery sells thousands a day, and one bite explains the math: airy choux, cool chocolate custard, and that buttery, not-too-sweet frosting in perfect ratio.
+
+Liliha has been a Honolulu institution since 1950, and the original Kuakini Street location still runs its old-school diner counter 24 hours a day — which means the coco puff run can happen at 2 PM or 2 AM. The pancakes and all-day breakfast have their own loyalists, but the green pastry box is the reason for the pilgrimage.
+
+Pro move from the regulars: buy one to eat immediately in the parking lot, and a box for later. The first one never survives the drive home anyway.
+
+**Must Try:** Coco Puffs, Pancakes, Chantilly Cake
+**Pro tip:** Located at 515 N Kuakini St, open 24 hours daily. Coco puffs sell out on busy days — call (808) 531-1651 to reserve a box.
+
+## 6. Shave Ice at Matsumoto — The Rainbow Icon (Haleiwa)
+
+No food says Hawaii quite like shave ice, and no shave ice is more famous than Matsumoto's. This Haleiwa landmark has been the definitive North Shore refreshment since 1951 — a towering, rainbow-striped cone of ice shaved so fine it absorbs syrup like fresh snow, nothing like the crunchy snow cones of the mainland.
+
+The house-made syrups are the difference: lilikoi, mango, and strawberry taste like actual fruit rather than candy. Locals know the upgrades — vanilla ice cream at the bottom and a condensed milk snow cap on top transform the whole thing into a creamy, slurpable masterpiece for a couple of dollars more.
+
+The line often wraps around the block after beach days, but it moves quickly. Grab your cone, wander the Haleiwa shops while it slowly disappears, and accept that some of it will end up on your shirt. That's part of the experience.
+
+**Must Try:** Lilikoi Shave Ice, Matsumoto Special (with ice cream), Snow Cap
+**Pro tip:** Find them at 66-111 Kamehameha Hwy in Haleiwa, open daily 9 AM to 6 PM. Go before 10 AM or after 4 PM to skip the longest lines — call (808) 637-4827 for info.
+
+## 7. Lilikoi Pancakes at Moke's — The Kailua Breakfast Worth Driving For (Kailua)
+
+Across the Ko'olau mountains in Kailua, a neighborhood breakfast spot built a statewide reputation on one dish: the lilikoi pancakes at Moke's Bread & Breakfast. The batter folds in fresh lilikoi — passion fruit — puree, so every fluffy, golden stack arrives tangy, sweet, and unlike anything on the mainland.
+
+The house-made coconut syrup is the finishing move, pooling into the pancakes in a way that makes maple syrup feel like a missed opportunity. The loco moco and Kailua benedict have their own followings, but the lilikoi pancakes are the dish people drive over the Pali for — the weekend line of locals and post-beach families proves it.
+
+Moke's closes at 1 PM, so this is a morning mission. Pair it with a Lanikai beach walk afterward and you have the definitive Windward-side day.
+
+**Must Try:** Lilikoi Pancakes, Loco Moco, Kailua Benedict
+**Pro tip:** Located at 27 Hoolai St in Kailua, open daily 6:30 AM to 1 PM. Weekend waits build after 8 AM — call (808) 261-5555 with questions.
+
+## 8. Pho French Dip at The Pig and the Lady — The Cult Sandwich (Chinatown)
+
+The most inventive sandwich on Oahu is a love letter to two cuisines at once. The Pig and the Lady's pho French dip — a crusty baguette piled with pho-spiced beef, served with a side of concentrated pho broth for dipping — is the dish that put Chef Andrew Le's Chinatown restaurant on the national map.
+
+Le is a James Beard semifinalist, and the sandwich shows why: every element of a bowl of pho — the aromatic broth, the herbs, the tender beef — rebuilt into handheld form without losing the soul of either parent dish. Dip, bite, repeat. The Laotian fried chicken and the namesake pho are the other reasons the room stays loud and full.
+
+The space is pure Chinatown energy: brick, bustle, and a menu that reads like family history filtered through Hawaii's multicultural lens. Come hungry and order more than one thing — this kitchen rewards curiosity.
+
+**Must Try:** Pho French Dip, Laotian Fried Chicken, P&L Pho
+**Pro tip:** Find them at 83 N King St, open Tuesday through Saturday for lunch and dinner. Call (808) 585-8255 for reservations.
+
+## 9. Monkeypod Mai Tai at Monkeypod Kitchen — The Sunset Cocktail (Waikiki)
+
+The most photographed cocktail in Hawaii isn't served in a tiki mug — it's the Monkeypod Mai Tai, a properly strong local rum cocktail crowned with a cloud of honey-lilikoi foam that has launched a thousand sunset photos. It tastes as good as it looks: bright, tart, tropical, and dangerously easy to order twice.
+
+The setting is the other half of the legend. Monkeypod Kitchen sits right on the waterfront at the Outrigger Reef, with an oceanfront patio, unobstructed Diamond Head views, and live local music daily. Chef Peter Merriman's kitchen backs the drinks with farm-fresh food — the macadamia nut crusted fish and banana cream pie are the orders to anchor the evening.
+
+The move: book a patio table for golden hour, order the mai tai as the musicians set up, and let the torchlight take over. This is the Waikiki evening the brochures promised you.
+
+**Must Try:** Monkeypod Mai Tai, Macadamia Nut Crusted Fish, Banana Cream Pie
+**Pro tip:** Located at 2169 Kalia Rd, Unit 111 at the Outrigger Reef, open daily 7 AM to 11 PM. Reserve a patio table for sunset — call (808) 900-4226.
+
+## 10. Chocolate Haupia Cream Pie at Ted's Bakery — The North Shore Finale (Sunset Beach)
+
+The last icon on the list is the one people buy whole and carry onto airplanes. Ted's Bakery, just off the highway near Sunset Beach, makes the chocolate haupia cream pie — layers of chocolate pudding and haupia coconut pudding under a cloud of whipped cream on a flaky crust — that has become the North Shore's most delicious souvenir.
+
+The magic is in the layers: dark chocolate giving way to silky coconut, all of it cold and light against the buttery crust. A slice costs about five dollars and eats best across the street on the sand, watching the waves that make this stretch of coast famous. Ted's also runs a serious plate lunch operation — the garlic shrimp plate and fried rice fuel surfers between sessions — but the pie is the headline.
+
+Whole pies sell out by mid-afternoon on weekends, so go early or call ahead to reserve one. Future you, eating pie on the beach, says thanks.
+
+**Must Try:** Chocolate Haupia Cream Pie, Garlic Shrimp Plate, Fried Rice Special
+**Pro tip:** Located at 59-024 Kamehameha Hwy near Sunset Beach, open daily 7 AM to 6:30 PM. Call (808) 638-8207 to reserve a whole pie.
+
+## How to Eat This List: Tips From a Local
+
+- **Cluster by geography.** Kapahulu (Leonard's) pairs with Waikiki (Duke's, Monkeypod); Helena's and Liliha are one Kalihi-side trip; Giovanni's, Matsumoto, and Ted's make the perfect North Shore loop; Moke's anchors a Kailua beach day.
+- **Go early, always.** Leonard's line peaks mid-morning, Helena's is Tuesday to Friday only, Ted's whole pies sell out by mid-afternoon, and Moke's closes at 1 PM.
+- **Bring cash.** The trucks and old-school counters — Giovanni's, Helena's, Ted's — run smoothest with bills in hand.
+- **Share the giants.** The Hula Pie and Matsumoto's special cones are built for two — splitting leaves room for more stops.
+- **Check the clock before you drive.** Helena's closes weekends, Moke's closes at 1 PM, and North Shore spots shut by 6:30 PM — plan the loop backward from closing times.
+- **Eat dessert first once.** On vacation, a mid-morning coco puff or shave ice is a legitimate strategy, not a failure of discipline.
+
+Ten dishes, ten rooms, trucks, and counters that define how Oahu eats — check them all off and you won't just have visited the island, you'll have tasted it. Start with a warm malasada, end with pie on the beach, and everything in between takes care of itself.`,
+},
 ];
 
 
